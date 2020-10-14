@@ -1,0 +1,1242 @@
+location_id,location_name,year,sex_id,sex,age_group_id,age_group_name,acause,cause_name,risk_id,risk_name,metric,mean,lower,upper
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,52.81075015,34.77635255,76.46627102
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,48.00024379,31.64449027,70.89332298
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,69.76593254,45.76441683,101.7979465
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,88.96040427,59.16865174,128.0912009
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,259.5373307,171.226033,375.015989
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,50.18359808,33.3153533,74.36390432
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,68.05003127,44.12845248,100.9844757
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,101.3837279,66.73169659,150.9249155
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,143.7508034,94.58410149,213.7904794
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,363.3681606,240.9824853,533.2390663
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,102.9943482,68.22608025,150.5840996
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,116.0502751,76.26218733,171.3080225
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,171.1496604,112.8851304,250.8230284
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,232.7112077,153.5810348,342.3451834
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,622.9054914,412.0255127,904.2279712
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,85,Air pollution,2016 US Dollar,167.6235136,48.34366951,384.8360929
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,85,Air pollution,2016 US Dollar,1037.052334,667.526719,1452.324542
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,85,Air pollution,2016 US Dollar,7783.663576,4749.19667,11240.32268
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,85,Air pollution,2016 US Dollar,7744.021394,4962.280239,10759.24965
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,85,Air pollution,2016 US Dollar,16732.36082,10715.48899,23388.85046
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,85,Air pollution,2016 US Dollar,127.10296,37.16178262,291.665777
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,85,Air pollution,2016 US Dollar,1145.848612,664.4432177,1734.727095
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,85,Air pollution,2016 US Dollar,6546.702881,3727.281343,9632.551908
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,85,Air pollution,2016 US Dollar,9047.248857,5688.826821,12473.61522
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,85,Air pollution,2016 US Dollar,16866.90331,10267.1863,23763.72018
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,85,Air pollution,2016 US Dollar,294.7264736,86.05484596,668.2056465
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,85,Air pollution,2016 US Dollar,2182.900946,1332.197544,3139.007972
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,85,Air pollution,2016 US Dollar,14330.36646,8466.798715,20733.65741
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,85,Air pollution,2016 US Dollar,16791.27025,10489.09096,23137.31274
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,85,Air pollution,2016 US Dollar,33599.26413,21011.76053,46983.89362
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,89,Other environmental risks,2016 US Dollar,10.64861271,4.117417049,18.27403629
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,89,Other environmental risks,2016 US Dollar,98.21611377,34.96101656,210.0363122
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,89,Other environmental risks,2016 US Dollar,1311.558486,425.633341,2401.512074
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,89,Other environmental risks,2016 US Dollar,2424.755608,1314.316038,3647.546541
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,89,Other environmental risks,2016 US Dollar,3845.178821,1805.263529,6141.957447
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,89,Other environmental risks,2016 US Dollar,9.143943194,3.449792502,17.81110919
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,89,Other environmental risks,2016 US Dollar,80.41136526,34.18673394,177.293524
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,89,Other environmental risks,2016 US Dollar,552.7033826,140.0873832,1108.813342
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,89,Other environmental risks,2016 US Dollar,1648.518584,681.5473113,2682.778452
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,89,Other environmental risks,2016 US Dollar,2290.777275,884.7663542,3924.810216
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,89,Other environmental risks,2016 US Dollar,19.7925559,8.124932976,32.46499358
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,89,Other environmental risks,2016 US Dollar,178.627479,72.16915112,383.3834333
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,89,Other environmental risks,2016 US Dollar,1864.261869,572.3518458,3472.154738
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,89,Other environmental risks,2016 US Dollar,4073.274192,2033.496447,6287.293186
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,89,Other environmental risks,2016 US Dollar,6135.956096,2715.643489,9979.338607
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,2176.381824,1870.792724,2509.909224
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,948.8970314,779.4656392,1180.394969
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,1276.989762,896.4921391,1748.719604
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,1464.112896,981.1193542,2116.014133
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,5866.381513,4758.374358,7279.34288
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,1887.218321,1625.747749,2192.265771
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,1353.832452,985.7320824,1850.712379
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,1304.116109,731.3530548,2089.914686
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,1357.712298,445.7752873,2674.612077
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,5902.87918,3919.29794,8607.418696
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,4063.600144,3530.542053,4650.332204
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,2302.729484,1769.017096,3005.870438
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,2581.105871,1634.302269,3849.799054
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,2821.825194,1431.863564,4806.384362
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,92,Child and maternal malnutrition,2016 US Dollar,11769.26069,8665.122629,15746.51968
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,98,Tobacco,2016 US Dollar,517.4665036,343.7899302,712.6492846
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,98,Tobacco,2016 US Dollar,5858.348322,4965.560873,6851.740572
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,98,Tobacco,2016 US Dollar,33276.54548,29740.53484,36737.60666
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,98,Tobacco,2016 US Dollar,29654.17407,26291.39101,33371.32555
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,98,Tobacco,2016 US Dollar,69306.53437,62651.50567,76505.31369
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,98,Tobacco,2016 US Dollar,525.6903587,346.6193814,731.2658508
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,98,Tobacco,2016 US Dollar,5763.893904,4810.407852,6798.008501
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,98,Tobacco,2016 US Dollar,25594.62999,22625.65373,28690.88318
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,98,Tobacco,2016 US Dollar,28768.893,25043.1953,32809.64586
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,98,Tobacco,2016 US Dollar,60653.10725,53759.07331,67560.55865
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,98,Tobacco,2016 US Dollar,1043.156862,741.9028421,1375.180334
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,98,Tobacco,2016 US Dollar,11622.24223,9894.583388,13454.71601
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,98,Tobacco,2016 US Dollar,58871.17546,52685.27295,64622.08924
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,98,Tobacco,2016 US Dollar,58423.06706,51676.62105,65395.44535
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,98,Tobacco,2016 US Dollar,129959.6416,116812.0136,143525.117
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,102,Alcohol use,2016 US Dollar,809.8961118,564.2177478,1136.318912
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,102,Alcohol use,2016 US Dollar,9805.336756,7776.82102,12054.89401
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,102,Alcohol use,2016 US Dollar,12964.86275,8391.647387,18270.42367
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,102,Alcohol use,2016 US Dollar,5421.192741,1730.902323,9576.866836
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,102,Alcohol use,2016 US Dollar,29001.28836,19289.24754,39797.83263
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,102,Alcohol use,2016 US Dollar,381.982253,261.8654988,536.2472605
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,102,Alcohol use,2016 US Dollar,3987.69049,2793.800641,5489.752181
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,102,Alcohol use,2016 US Dollar,3086.973581,-117.066615,7003.800261
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,102,Alcohol use,2016 US Dollar,70.54778343,-2971.02458,3436.958542
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,102,Alcohol use,2016 US Dollar,7527.194107,592.9649794,16144.10179
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,102,Alcohol use,2016 US Dollar,1191.878365,838.2609682,1638.514943
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,102,Alcohol use,2016 US Dollar,13793.02725,10771.06947,17231.21787
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,102,Alcohol use,2016 US Dollar,16051.83633,9187.418561,24058.79477
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,102,Alcohol use,2016 US Dollar,5491.740524,-192.9985413,12325.0509
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,102,Alcohol use,2016 US Dollar,36528.48246,21522.49763,54156.89032
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,103,Drug use,2016 US Dollar,244.8816511,177.3884118,341.7782503
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,103,Drug use,2016 US Dollar,4963.274989,3935.035113,6104.425105
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,103,Drug use,2016 US Dollar,5319.212781,4511.746989,6206.839816
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,103,Drug use,2016 US Dollar,1912.513434,1585.940602,2289.78399
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,103,Drug use,2016 US Dollar,12439.88285,10760.57737,14292.14817
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,103,Drug use,2016 US Dollar,188.1943609,141.5539353,250.0502859
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,103,Drug use,2016 US Dollar,3291.365822,2659.715478,4014.380179
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,103,Drug use,2016 US Dollar,3957.043083,3272.255823,4840.303837
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,103,Drug use,2016 US Dollar,1791.923142,1442.540161,2166.982364
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,103,Drug use,2016 US Dollar,9228.526408,7929.684845,10745.38552
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,103,Drug use,2016 US Dollar,433.076012,337.462538,540.5919999
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,103,Drug use,2016 US Dollar,8254.640812,7037.83147,9571.059364
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,103,Drug use,2016 US Dollar,9276.255864,7992.267925,10884.6519
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,103,Drug use,2016 US Dollar,3704.436576,3087.45725,4387.000696
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,103,Drug use,2016 US Dollar,21668.40926,19276.04843,24565.4802
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,1198.35494,775.9753099,1740.187113
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,5400.969118,4478.132733,6184.439153
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,37645.59891,33488.66965,42251.97275
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,42139.23986,35505.29035,49753.90396
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,86384.16282,76606.01165,96494.74194
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,1527.242519,840.8353549,3227.562796
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,6823.943578,6016.918926,7754.913516
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,31571.12505,28873.29884,34342.61683
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,45626.05436,38035.8021,55791.95355
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,85548.36551,75913.62276,96787.77596
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,2725.597459,1922.382737,4545.808539
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,12224.9127,10823.10869,13476.22417
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,69216.72396,63278.18164,75011.11696
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,105,High fasting plasma glucose,2016 US Dollar,87765.29423,74020.00104,104205.3815
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,107,High systolic blood pressure,2016 US Dollar,369.8942678,268.6407514,629.4358369
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,107,High systolic blood pressure,2016 US Dollar,6206.139668,5358.972073,7131.364779
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,107,High systolic blood pressure,2016 US Dollar,38933.12807,34120.23641,44507.29099
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,107,High systolic blood pressure,2016 US Dollar,45858.27225,40185.1239,52463.38417
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,107,High systolic blood pressure,2016 US Dollar,91367.43426,81376.71032,102482.1042
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,107,High systolic blood pressure,2016 US Dollar,278.4498312,213.8820158,353.0846046
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,107,High systolic blood pressure,2016 US Dollar,4507.043627,3880.139939,5207.528758
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,107,High systolic blood pressure,2016 US Dollar,28837.68081,26044.2442,31956.45373
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,107,High systolic blood pressure,2016 US Dollar,54913.11914,49423.31325,60859.98389
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,107,High systolic blood pressure,2016 US Dollar,88536.2934,81163.28073,96778.55888
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,107,High systolic blood pressure,2016 US Dollar,648.3440989,509.0995565,956.5804875
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,107,High systolic blood pressure,2016 US Dollar,10713.18329,9460.646238,11987.15522
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,107,High systolic blood pressure,2016 US Dollar,67770.80888,61450.04991,75000.84416
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,107,High systolic blood pressure,2016 US Dollar,100771.3914,90184.76784,111993.8266
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,108,High body-mass index,2016 US Dollar,374.37695,236.6448079,526.1324961
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,108,High body-mass index,2016 US Dollar,10365.55375,8016.552591,12396.22561
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,108,High body-mass index,2016 US Dollar,53526.27298,40329.55692,64082.94065
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,108,High body-mass index,2016 US Dollar,41154.95529,26359.0622,54799.19571
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,108,High body-mass index,2016 US Dollar,105421.159,76396.6829,131279.127
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,108,High body-mass index,2016 US Dollar,336.9105221,215.0848642,496.1783423
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,108,High body-mass index,2016 US Dollar,17068.32308,14061.27584,19954.82271
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,108,High body-mass index,2016 US Dollar,55504.09728,44139.70268,65344.05518
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,108,High body-mass index,2016 US Dollar,60172.91569,40854.87882,79235.44617
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,108,High body-mass index,2016 US Dollar,133082.2466,100602.1795,162581.4562
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,108,High body-mass index,2016 US Dollar,711.2874721,477.2862207,992.2977631
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,108,High body-mass index,2016 US Dollar,27433.87684,22090.7115,32283.9926
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,108,High body-mass index,2016 US Dollar,109030.3703,85125.3871,128130.7642
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,108,High body-mass index,2016 US Dollar,101327.871,69506.57512,132702.6808
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,108,High body-mass index,2016 US Dollar,238503.4055,178217.1894,291573.7532
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,109,Low bone mineral density,2016 US Dollar,129.9100416,100.7692733,166.8979504
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,109,Low bone mineral density,2016 US Dollar,1897.804153,1434.141159,2418.197121
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,109,Low bone mineral density,2016 US Dollar,5344.279465,4362.300999,6478.917158
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,109,Low bone mineral density,2016 US Dollar,7371.993659,6074.265454,8820.810603
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,109,Low bone mineral density,2016 US Dollar,164.7012758,128.5499836,204.5488099
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,109,Low bone mineral density,2016 US Dollar,3682.323776,2864.942891,4642.905322
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,109,Low bone mineral density,2016 US Dollar,16003.64857,12944.91689,18721.45253
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,109,Low bone mineral density,2016 US Dollar,19850.67363,16708.08489,22798.73161
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,109,Low bone mineral density,2016 US Dollar,294.6113174,236.4180176,360.9071715
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,109,Low bone mineral density,2016 US Dollar,5580.127929,4456.991248,6813.353488
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,109,Low bone mineral density,2016 US Dollar,21347.92804,18373.866,24580.33421
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,109,Low bone mineral density,2016 US Dollar,27222.66728,23495.00908,30849.32187
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,110,Dietary risks,2016 US Dollar,5500.698186,4903.151399,6117.233166
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,110,Dietary risks,2016 US Dollar,39606.88258,35548.02601,43730.00203
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,110,Dietary risks,2016 US Dollar,33933.36251,30376.15345,37657.30249
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,110,Dietary risks,2016 US Dollar,79040.94327,71509.04077,86272.7495
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,110,Dietary risks,2016 US Dollar,5403.900883,4694.743131,6125.451727
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,110,Dietary risks,2016 US Dollar,26283.68977,23280.3454,29460.54504
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,110,Dietary risks,2016 US Dollar,32823.19372,28533.65562,37198.57413
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,110,Dietary risks,2016 US Dollar,64510.78437,57790.90037,71056.85486
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,110,Dietary risks,2016 US Dollar,10904.59907,9702.752433,12083.80643
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,110,Dietary risks,2016 US Dollar,65890.57235,59385.6953,72353.90354
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,110,Dietary risks,2016 US Dollar,66756.55623,59814.80697,73927.79835
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,110,Dietary risks,2016 US Dollar,143551.7276,130343.0999,156080.6003
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,125,Low physical activity,2016 US Dollar,286.3664215,136.092384,485.8291577
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,125,Low physical activity,2016 US Dollar,3036.150004,1452.321689,4908.732698
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,125,Low physical activity,2016 US Dollar,4435.312051,2367.622715,6938.319171
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,125,Low physical activity,2016 US Dollar,7757.828476,4005.692037,12204.56658
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,125,Low physical activity,2016 US Dollar,346.4354746,173.7367751,567.3106523
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,125,Low physical activity,2016 US Dollar,2353.745307,1193.349702,3713.720607
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,125,Low physical activity,2016 US Dollar,5244.481046,2846.55578,8107.46992
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,125,Low physical activity,2016 US Dollar,7944.661827,4244.074325,12194.53138
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,125,Low physical activity,2016 US Dollar,632.801896,310.6243299,1045.193905
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,125,Low physical activity,2016 US Dollar,5389.895311,2697.540961,8626.092945
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,125,Low physical activity,2016 US Dollar,9679.793097,5303.693292,14930.05215
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,125,Low physical activity,2016 US Dollar,15702.4903,8251.931032,24278.33705
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,126,Occupational risks,2016 US Dollar,376.4765233,296.9784604,469.5888916
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,126,Occupational risks,2016 US Dollar,7062.572381,5991.432364,8177.696387
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,126,Occupational risks,2016 US Dollar,11288.70703,10041.47944,12809.36834
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,126,Occupational risks,2016 US Dollar,3579.768087,2994.003498,4186.998141
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,126,Occupational risks,2016 US Dollar,22307.52402,20103.08269,24689.53097
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,126,Occupational risks,2016 US Dollar,140.3281704,107.993339,177.1471507
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,126,Occupational risks,2016 US Dollar,4042.861648,3450.888832,4744.736192
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,126,Occupational risks,2016 US Dollar,7690.884726,6699.892965,8659.781559
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,126,Occupational risks,2016 US Dollar,1941.839687,1535.437962,2370.517198
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,126,Occupational risks,2016 US Dollar,13815.91423,12363.73546,15299.10515
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,126,Occupational risks,2016 US Dollar,516.8046937,429.7449616,620.6120997
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,126,Occupational risks,2016 US Dollar,11105.43403,9806.758822,12429.3564
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,126,Occupational risks,2016 US Dollar,18979.59175,17037.16575,20994.79159
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,126,Occupational risks,2016 US Dollar,5521.607774,4797.015301,6257.391365
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,126,Occupational risks,2016 US Dollar,36123.43825,33115.76731,39252.20883
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,135,Intimate partner violence,2016 US Dollar,280.8913673,132.5708515,513.9875345
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,135,Intimate partner violence,2016 US Dollar,2918.536854,2057.573196,3973.922545
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,135,Intimate partner violence,2016 US Dollar,2598.940174,1626.423473,3696.951182
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,135,Intimate partner violence,2016 US Dollar,474.6472332,309.559063,685.8118959
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,135,Intimate partner violence,2016 US Dollar,6273.015629,4917.813761,7940.150209
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,135,Intimate partner violence,2016 US Dollar,280.8913673,132.5708515,513.9875345
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,135,Intimate partner violence,2016 US Dollar,2918.536854,2057.573196,3973.922545
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,135,Intimate partner violence,2016 US Dollar,2598.940174,1626.423473,3696.951182
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,135,Intimate partner violence,2016 US Dollar,474.6472332,309.559063,685.8118959
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,135,Intimate partner violence,2016 US Dollar,6273.015629,4917.813761,7940.150209
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,170,Unsafe sex,2016 US Dollar,391.9926887,334.4379309,470.6762086
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,170,Unsafe sex,2016 US Dollar,2177.874222,1541.021239,2883.014706
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,170,Unsafe sex,2016 US Dollar,3972.629901,1814.297041,6351.311818
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,170,Unsafe sex,2016 US Dollar,679.3639545,573.6304263,833.5072171
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,170,Unsafe sex,2016 US Dollar,7221.860766,4431.325328,10171.3857
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,170,Unsafe sex,2016 US Dollar,424.7567114,363.116007,495.2409817
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,170,Unsafe sex,2016 US Dollar,2383.676954,2091.059589,2914.529078
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,170,Unsafe sex,2016 US Dollar,2246.642631,1640.519599,3179.901061
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,170,Unsafe sex,2016 US Dollar,838.6400616,751.2440986,909.3146122
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,170,Unsafe sex,2016 US Dollar,5893.716358,5044.74207,7214.014931
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,170,Unsafe sex,2016 US Dollar,816.7494001,699.8064403,964.6809938
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,170,Unsafe sex,2016 US Dollar,4561.551176,3641.241866,5698.216523
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,170,Unsafe sex,2016 US Dollar,6219.272531,3655.944948,9002.33376
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,170,Unsafe sex,2016 US Dollar,1518.004016,1340.161973,1696.331172
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,170,Unsafe sex,2016 US Dollar,13115.57712,9480.448208,16917.71223
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,341,Impaired kidney function,2016 US Dollar,306.6121245,229.7333502,387.5928511
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,341,Impaired kidney function,2016 US Dollar,1334.723478,1085.445596,1615.322301
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,341,Impaired kidney function,2016 US Dollar,6337.289545,5319.396924,7372.509231
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,341,Impaired kidney function,2016 US Dollar,9677.53867,8375.086805,11020.57357
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,341,Impaired kidney function,2016 US Dollar,17656.16382,15309.6148,20073.4301
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,341,Impaired kidney function,2016 US Dollar,254.9824234,199.660546,313.2235157
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,341,Impaired kidney function,2016 US Dollar,1002.019809,826.0235915,1190.952662
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,341,Impaired kidney function,2016 US Dollar,4221.035656,3559.177853,4894.219385
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,341,Impaired kidney function,2016 US Dollar,10844.3367,9078.877134,13212.46453
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,341,Impaired kidney function,2016 US Dollar,16322.37459,14022.9491,19172.69503
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,341,Impaired kidney function,2016 US Dollar,561.594548,429.1113111,690.4700871
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,341,Impaired kidney function,2016 US Dollar,2336.743288,1917.021843,2803.363019
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,341,Impaired kidney function,2016 US Dollar,10558.3252,8909.015711,12225.71065
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,341,Impaired kidney function,2016 US Dollar,20521.87537,17632.9848,23818.93518
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,341,High systolic blood pressure,2016 US Dollar,179903.7277,164459.0672,195962.0712
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,341,Impaired kidney function,2016 US Dollar,33978.53841,29457.98241,38746.96327
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,367,High LDL cholesterol,2016 US Dollar,2057.26284,1719.562239,2408.091952
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,367,High LDL cholesterol,2016 US Dollar,14665.75332,12167.72077,17289.77243
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,367,High LDL cholesterol,2016 US Dollar,9592.061383,6486.447865,12974.77776
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,367,High LDL cholesterol,2016 US Dollar,26315.07754,21397.05481,32044.58581
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,367,High LDL cholesterol,2016 US Dollar,1374.835456,1118.162435,1641.153237
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,367,High LDL cholesterol,2016 US Dollar,7918.084442,6663.1434,9259.894163
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,367,High LDL cholesterol,2016 US Dollar,11005.86035,7357.220757,15336.82901
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,367,High LDL cholesterol,2016 US Dollar,20298.78025,15829.10864,25443.46687
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,367,High LDL cholesterol,2016 US Dollar,3432.098296,2877.670576,3979.508226
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,367,High LDL cholesterol,2016 US Dollar,22583.83776,19019.19995,26456.02313
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,367,High LDL cholesterol,2016 US Dollar,20597.92173,14133.75557,27983.64412
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,367,High fasting plasma glucose,2016 US Dollar,171932.5283,154821.0737,191940.1801
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,367,High LDL cholesterol,2016 US Dollar,46613.85779,37882.81979,56965.93056
+102,United States of America,2016,1,Male,158,<20 years,_all,All causes,381,Childhood maltreatment,2016 US Dollar,451.5433705,279.5684389,713.1211999
+102,United States of America,2016,1,Male,170,20 to 44,_all,All causes,381,Childhood maltreatment,2016 US Dollar,551.5859801,392.8540819,757.8337464
+102,United States of America,2016,1,Male,171,45 to 64,_all,All causes,381,Childhood maltreatment,2016 US Dollar,341.9967666,233.8858435,480.6475327
+102,United States of America,2016,1,Male,154,65 plus,_all,All causes,381,Childhood maltreatment,2016 US Dollar,89.63906226,60.8338528,125.5631555
+102,United States of America,2016,1,Male,22,All Ages,_all,All causes,381,Childhood maltreatment,2016 US Dollar,1434.765179,1080.150666,1868.07703
+102,United States of America,2016,2,Female,158,<20 years,_all,All causes,381,Childhood maltreatment,2016 US Dollar,1222.116768,797.5459358,1761.351917
+102,United States of America,2016,2,Female,170,20 to 44,_all,All causes,381,Childhood maltreatment,2016 US Dollar,2015.112263,1462.548818,2651.097292
+102,United States of America,2016,2,Female,171,45 to 64,_all,All causes,381,Childhood maltreatment,2016 US Dollar,1580.615549,1140.570269,2154.391126
+102,United States of America,2016,2,Female,154,65 plus,_all,All causes,381,Childhood maltreatment,2016 US Dollar,240.2259158,165.1312749,329.4263749
+102,United States of America,2016,2,Female,22,All Ages,_all,All causes,381,Childhood maltreatment,2016 US Dollar,5058.070496,3981.220516,6185.276908
+102,United States of America,2016,3,Both,158,<20 years,_all,All causes,381,Childhood maltreatment,2016 US Dollar,1673.660138,1138.340053,2368.247343
+102,United States of America,2016,3,Both,170,20 to 44,_all,All causes,381,Childhood maltreatment,2016 US Dollar,2566.698243,1925.387303,3306.988506
+102,United States of America,2016,3,Both,171,45 to 64,_all,All causes,381,Childhood maltreatment,2016 US Dollar,1922.612316,1440.189178,2533.576128
+102,United States of America,2016,3,Both,154,65 plus,_all,All causes,381,Childhood maltreatment,2016 US Dollar,329.864978,241.8456296,437.0930889
+102,United States of America,2016,3,Both,22,All Ages,_all,All causes,381,Childhood maltreatment,2016 US Dollar,6492.835675,5188.753694,7889.183227
+102,United States of America,2016,1,Male,158,<20 years,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,52.81075015,34.77635255,76.46627102
+102,United States of America,2016,1,Male,170,20 to 44,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,48.00024379,31.64449027,70.89332298
+102,United States of America,2016,1,Male,171,45 to 64,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,69.76593254,45.76441683,101.7979465
+102,United States of America,2016,1,Male,154,65 plus,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,88.96040427,59.16865174,128.0912009
+102,United States of America,2016,1,Male,22,All Ages,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,259.5373307,171.226033,375.015989
+102,United States of America,2016,2,Female,158,<20 years,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,50.18359808,33.3153533,74.36390432
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,68.05003127,44.12845248,100.9844757
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,101.3837279,66.73169659,150.9249155
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,143.7508034,94.58410149,213.7904794
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,363.3681606,240.9824853,533.2390663
+102,United States of America,2016,3,Both,158,<20 years,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,102.9943482,68.22608025,150.5840996
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,116.0502751,76.26218733,171.3080225
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,171.1496604,112.8851304,250.8230284
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,232.7112077,153.5810348,342.3451834
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,82,"Unsafe water, sanitation, and handwashing",2016 US Dollar,622.9054914,412.0255127,904.2279712
+102,United States of America,2016,1,Male,158,<20 years,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,167.6235136,48.34366951,384.8360929
+102,United States of America,2016,1,Male,170,20 to 44,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,109.9591421,31.34221444,248.1915948
+102,United States of America,2016,1,Male,171,45 to 64,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,227.3512602,65.59259725,533.1932693
+102,United States of America,2016,1,Male,154,65 plus,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,308.0906355,87.69429433,693.0493826
+102,United States of America,2016,1,Male,22,All Ages,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,813.0245513,234.4849589,1848.924601
+102,United States of America,2016,2,Female,158,<20 years,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,127.10296,37.16178262,291.665777
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,144.5204095,42.32331438,335.4162744
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,270.2014775,79.11532624,631.7420376
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,377.5359829,106.1571766,845.8610655
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,919.3608298,263.2522698,2097.73709
+102,United States of America,2016,3,Both,158,<20 years,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,294.7264736,86.05484596,668.2056465
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,254.4795516,76.88685355,590.3652403
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,497.5527376,143.9081832,1152.537214
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,685.6266184,192.0454159,1535.05344
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,85,Air pollution,2016 US Dollar,1732.385381,492.489067,3949.954344
+102,United States of America,2016,1,Male,158,<20 years,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,1414.207381,1134.399103,1727.104869
+102,United States of America,2016,1,Male,170,20 to 44,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,102.3259798,0,249.7819404
+102,United States of America,2016,1,Male,171,45 to 64,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,281.0131438,0,705.893581
+102,United States of America,2016,1,Male,154,65 plus,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,449.3861645,0,1083.883619
+102,United States of America,2016,1,Male,22,All Ages,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,2246.932669,1254.204843,3546.757254
+102,United States of America,2016,2,Female,158,<20 years,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,1111.126422,870.3908681,1393.187117
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,309.2401976,0,788.0114802
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,506.0464004,0,1270.519082
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,905.9351146,0,2222.674454
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,2832.348134,963.1164934,5560.794647
+102,United States of America,2016,3,Both,158,<20 years,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,2525.333802,2053.752136,3065.631059
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,411.5661774,0,1046.567152
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,787.0595442,0,1979.316045
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,1355.321279,0,3340.77947
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,92,Child and maternal malnutrition,2016 US Dollar,5079.280803,2234.289307,9101.577841
+102,United States of America,2016,1,Male,158,<20 years,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,517.4665036,343.7899302,712.6492846
+102,United States of America,2016,1,Male,170,20 to 44,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,370.4982141,252.7419876,500.6140631
+102,United States of America,2016,1,Male,171,45 to 64,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,1024.187359,712.7330173,1402.618415
+102,United States of America,2016,1,Male,154,65 plus,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,890.6470662,585.3595891,1221.774369
+102,United States of America,2016,1,Male,22,All Ages,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,2802.799143,2039.072935,3672.394026
+102,United States of America,2016,2,Female,158,<20 years,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,525.6903587,346.6193814,731.2658508
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,409.5005764,274.8588771,562.7005339
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,969.3902112,649.9827535,1303.307874
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,771.6992079,492.0473048,1079.3671
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,2676.280354,1934.97854,3499.923478
+102,United States of America,2016,3,Both,158,<20 years,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,1043.156862,741.9028421,1375.180334
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,779.9987904,534.808815,1051.191122
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,1993.57757,1367.609758,2679.761261
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,1662.346274,1087.156644,2300.959653
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,98,Tobacco,2016 US Dollar,5479.079497,4001.784866,7086.935806
+102,United States of America,2016,1,Male,158,<20 years,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,24.33019178,6.316810443,44.15526838
+102,United States of America,2016,1,Male,170,20 to 44,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,397.2200895,184.2124495,628.7195411
+102,United States of America,2016,1,Male,171,45 to 64,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,407.5763786,6.46003204,830.2119048
+102,United States of America,2016,1,Male,154,65 plus,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,263.8735956,-199.585674,709.4999062
+102,United States of America,2016,1,Male,22,All Ages,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,1093.000255,40.15001522,2165.692009
+102,United States of America,2016,2,Female,158,<20 years,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,7.991248327,-3.467221111,19.85290596
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,192.6486724,-23.87636509,412.4087104
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,177.2895633,-184.1741964,540.0813891
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,109.1854357,-213.6114081,429.9798872
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,487.1149198,-411.5062887,1368.66243
+102,United States of America,2016,3,Both,158,<20 years,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,32.3214401,3.275479726,64.35180621
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,589.868762,162.64973,1030.03415
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,584.8659419,-161.663228,1361.459388
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,373.0590313,-402.5847108,1129.307084
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,102,Alcohol use,2016 US Dollar,1580.115175,-340.4200147,3494.980833
+102,United States of America,2016,1,Male,158,<20 years,_comm,Communicable diseases,103,Drug use,2016 US Dollar,1.67190444,0.72079799,3.100715715
+102,United States of America,2016,1,Male,170,20 to 44,_comm,Communicable diseases,103,Drug use,2016 US Dollar,178.210639,110.826943,278.3605352
+102,United States of America,2016,1,Male,171,45 to 64,_comm,Communicable diseases,103,Drug use,2016 US Dollar,229.7064506,112.3363116,394.7385677
+102,United States of America,2016,1,Male,154,65 plus,_comm,Communicable diseases,103,Drug use,2016 US Dollar,19.972076,11.94949749,32.36242941
+102,United States of America,2016,1,Male,22,All Ages,_comm,Communicable diseases,103,Drug use,2016 US Dollar,429.5610701,262.8158317,659.8471021
+102,United States of America,2016,2,Female,158,<20 years,_comm,Communicable diseases,103,Drug use,2016 US Dollar,1.698906925,0.845220307,2.872759627
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,103,Drug use,2016 US Dollar,140.8328515,99.71285097,203.8282467
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,103,Drug use,2016 US Dollar,114.3843506,68.64356733,195.3721802
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,103,Drug use,2016 US Dollar,23.73687281,15.21564736,36.92492543
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,103,Drug use,2016 US Dollar,280.6529818,205.6970401,399.7363093
+102,United States of America,2016,3,Both,158,<20 years,_comm,Communicable diseases,103,Drug use,2016 US Dollar,3.370811365,1.60370624,5.987893051
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,103,Drug use,2016 US Dollar,319.0434905,218.1633736,471.7088542
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,103,Drug use,2016 US Dollar,344.0908012,197.7163156,565.9523824
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,103,Drug use,2016 US Dollar,43.70894881,27.72054546,69.55819299
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,103,Drug use,2016 US Dollar,710.2140519,487.6761819,1028.873142
+102,United States of America,2016,1,Male,170,20 to 44,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,3.562952301,1.987907951,5.475611691
+102,United States of America,2016,1,Male,171,45 to 64,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,13.50227813,8.136461535,21.76121612
+102,United States of America,2016,1,Male,154,65 plus,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,10.47046877,4.39992814,18.23030406
+102,United States of America,2016,1,Male,22,All Ages,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,27.53569921,16.47915729,42.60450799
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,1.780566816,0.971512293,2.822679967
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,4.913192897,2.856825198,7.728207836
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,5.109065034,2.090324359,9.207451829
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,11.80282475,6.876351566,18.50772475
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,5.343519116,2.975339921,8.124521769
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,18.41547103,11.1683258,29.27924642
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,15.57953381,6.471645135,27.0678417
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,105,High fasting plasma glucose,2016 US Dollar,39.33852395,23.91561079,59.72360951
+102,United States of America,2016,2,Female,158,<20 years,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,24.98670714,11.35832267,45.03991299
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,284.205994,149.7271859,454.145848
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,328.8092022,152.4507503,612.0097879
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,112.1384717,61.68498222,168.4133718
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,750.1403751,394.1237169,1231.66187
+102,United States of America,2016,3,Both,158,<20 years,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,24.98670714,11.35832267,45.03991299
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,284.205994,149.7271859,454.145848
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,328.8092022,152.4507503,612.0097879
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,112.1384717,61.68498222,168.4133718
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,135,Intimate partner violence,2016 US Dollar,750.1403751,394.1237169,1231.66187
+102,United States of America,2016,1,Male,158,<20 years,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,391.9926887,334.4379309,470.6762086
+102,United States of America,2016,1,Male,170,20 to 44,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,2177.874222,1541.021239,2883.014706
+102,United States of America,2016,1,Male,171,45 to 64,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,3972.629901,1814.297041,6351.311818
+102,United States of America,2016,1,Male,154,65 plus,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,679.3639545,573.6304263,833.5072171
+102,United States of America,2016,1,Male,22,All Ages,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,7221.860766,4431.325328,10171.3857
+102,United States of America,2016,2,Female,158,<20 years,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,400.8554523,342.8448359,477.3602801
+102,United States of America,2016,2,Female,170,20 to 44,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,2050.701161,1764.063853,2577.903584
+102,United States of America,2016,2,Female,171,45 to 64,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,1921.751221,1350.38989,2836.669986
+102,United States of America,2016,2,Female,154,65 plus,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,735.2168557,644.8713377,804.2524959
+102,United States of America,2016,2,Female,22,All Ages,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,5108.52469,4284.472876,6451.055986
+102,United States of America,2016,3,Both,158,<20 years,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,792.848141,678.7808914,947.8047126
+102,United States of America,2016,3,Both,170,20 to 44,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,4228.575383,3344.41576,5338.997314
+102,United States of America,2016,3,Both,171,45 to 64,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,5894.381121,3330.656633,8648.772046
+102,United States of America,2016,3,Both,154,65 plus,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,1414.58081,1231.341521,1599.422248
+102,United States of America,2016,3,Both,22,All Ages,_comm,Communicable diseases,170,Unsafe sex,2016 US Dollar,12330.38546,8748.120465,16188.03822
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,403.76457,127.265847,746.959651
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,3646.999456,1135.249615,6728.141402
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,2965.242117,917.7781662,5517.490734
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,7016.006144,2189.606019,12991.40901
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,600.3637771,178.9330135,1143.477812
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,3608.399974,1154.219882,6576.473329
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,3502.249296,1069.303685,6480.435748
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,7711.013047,2423.120758,14018.86075
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,1004.128347,319.1497727,1859.679971
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,7255.39943,2292.680145,13409.31711
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,6467.491413,1975.540146,11965.90011
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",85,Air pollution,2016 US Dollar,14727.01919,4596.140019,27234.88651
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,3.904445365,0.082019496,13.85420027
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,71.41737342,19.50585282,138.2742392
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,176.8237508,92.95549212,277.2029986
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,252.1455696,112.9867941,425.2030984
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,1.905214901,0.021859556,7.419770766
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,31.03533032,4.590674843,71.71818796
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,115.2001096,44.62326229,202.3718512
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,148.1406548,49.65727318,278.8875166
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,5.809660267,0.105360248,21.03241738
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,102.4527037,24.01388892,210.2392087
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,292.0238604,138.9644533,474.4614238
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",89,Other environmental risks,2016 US Dollar,400.2862244,166.5315172,700.7582587
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,466.7344611,319.8743142,625.7687032
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,4379.570782,3289.75583,5550.169328
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,2545.445632,1807.34194,3368.317395
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,7391.750875,5514.28309,9308.630589
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,549.1755121,371.489458,751.3548707
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,3462.022405,2482.640887,4370.697643
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,2134.214567,1472.962562,2874.330814
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,6145.412485,4445.074098,7761.037739
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,1015.909973,721.7799894,1333.368247
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,7841.593187,5855.24821,9775.900414
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,4679.660199,3373.645122,6190.153542
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",98,Tobacco,2016 US Dollar,13537.16336,10009.39942,17090.76833
+102,United States of America,2016,1,Male,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,4.363512046,-1.176065418,12.03005121
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,225.9870861,8.524826491,430.7023832
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,812.041064,-1029.337153,2587.652309
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,86.53974909,-2.636408997,1229.451614
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,955.8519131,-2389.488482,4142.659635
+102,United States of America,2016,2,Female,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,11.50367922,1.913657364,24.75323167
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,460.4418845,85.36415188,969.8071696
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,3472.592027,1069.717418,5861.258153
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,2886.009317,1464.062833,4477.60469
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,6830.546908,2597.92929,10961.16805
+102,United States of America,2016,3,Both,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,7.140167171,6.933525833,21.42111512
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,234.4547984,-811.1762155,421.8825415
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,2660.550963,715.7793563,6020.631086
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,2972.549066,748.5637815,5032.308797
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",102,Alcohol use,2016 US Dollar,874.6949951,552.8465204,1145.0841
+102,United States of America,2016,1,Male,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,1198.35494,775.9753099,1740.187113
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,4929.782379,4076.119223,5696.840783
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,28630.37931,25856.89443,31901.42734
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,24018.82961,21714.02119,26566.79884
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,58777.34624,53352.19917,64322.64152
+102,United States of America,2016,2,Female,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,1527.242519,840.8353549,3227.562796
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,6404.552674,5654.256221,7341.519746
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,26721.14505,24597.94794,29043.72005
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,26936.03675,24682.62782,29358.34357
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,61588.977,57475.58056,65645.90592
+102,United States of America,2016,3,Both,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,2725.597459,1922.382737,4545.808539
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,11334.33505,9978.949102,12523.99506
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,55351.52436,51499.41147,58419.25853
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,50954.86636,47122.17575,54769.03542
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",105,High fasting plasma glucose,2016 US Dollar,120366.3232,113086.4969,126741.3779
+102,United States of America,2016,1,Male,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,32.32376237,23.03945028,43.42533542
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,420.6304342,311.3696812,543.5989395
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,2052.259133,1571.207038,2589.568639
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,3094.082866,2457.175805,3725.929012
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,5599.296195,4437.934426,6793.026785
+102,United States of America,2016,2,Female,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,25.96705945,19.00690661,33.86219151
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,190.7835519,143.3300523,248.8213182
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,1204.633585,899.8833006,1539.026659
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,3194.329249,2515.78978,3790.093391
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,4615.713446,3715.334199,5548.593049
+102,United States of America,2016,3,Both,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,58.29082181,42.38622928,76.59989041
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,611.4139861,458.0784073,791.3161488
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,3256.892719,2491.404904,4134.255361
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,6288.412115,5024.844171,7515.218944
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",107,High systolic blood pressure,2016 US Dollar,10215.00964,8189.025519,12325.00737
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,2771.980938,2150.174735,3371.80878
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,21279.86118,17269.38332,25071.17701
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,13369.298,9280.794747,17198.96149
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,37421.14011,28910.5676,44894.03393
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,3940.749466,3318.228395,4664.31233
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,21109.76322,17906.1934,23829.90241
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,16151.15108,12133.80295,19980.88621
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,41201.66377,34080.72861,46895.73281
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,6712.730404,5628.693529,7778.060152
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,42389.6244,35511.0407,47813.51839
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,29520.44908,21753.50387,36773.16382
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",108,High body-mass index,2016 US Dollar,78622.80388,63714.67751,90758.90619
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,1914.182821,1460.011698,2361.635249
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,13882.4644,11448.34538,16579.65032
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,8341.336291,6714.608335,10057.48751
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,24137.98352,19999.77351,28572.52025
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,2542.078099,1997.022273,3168.434428
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,11967.59696,9636.336532,14531.46871
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,8423.624357,6672.551129,10418.46918
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,22933.29941,18681.9339,27495.79284
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,4456.26092,3628.901066,5359.335298
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,25850.06136,21339.71765,30456.08173
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,16764.96065,13661.91444,20299.05184
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",110,Dietary risks,2016 US Dollar,47071.28293,39148.40992,55256.74113
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,75.63650682,15.52340578,159.2867967
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,754.6503721,159.5187902,1488.103404
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,694.151584,152.5909204,1334.09348
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,1524.438463,326.383851,2976.220364
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,131.5456865,27.88542281,252.6658653
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,829.6266994,179.4022225,1601.273451
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,857.8327664,190.056876,1615.299706
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,1819.005152,394.3684253,3432.513907
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,207.1821933,43.33353349,409.9937861
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,1584.277071,327.1994186,3031.750214
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,1551.98435,345.0075843,2955.502639
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",125,Low physical activity,2016 US Dollar,3343.443615,736.321696,6365.377197
+102,United States of America,2016,1,Male,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,306.6121245,229.7333502,387.5928511
+102,United States of America,2016,1,Male,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,1169.339079,926.0037403,1447.293837
+102,United States of America,2016,1,Male,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,3986.967739,3177.460381,4825.474045
+102,United States of America,2016,1,Male,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,4908.399852,4033.397743,5790.618639
+102,United States of America,2016,1,Male,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,10371.31879,8501.209702,12221.7249
+102,United States of America,2016,2,Female,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,254.9824234,199.660546,313.2235157
+102,United States of America,2016,2,Female,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,804.710397,644.4395815,990.6393448
+102,United States of America,2016,2,Female,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,2650.883363,2123.15174,3213.557397
+102,United States of America,2016,2,Female,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,4907.324113,4041.383992,5700.187599
+102,United States of America,2016,2,Female,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,8617.900296,7191.223128,10066.3344
+102,United States of America,2016,3,Both,158,<20 years,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,561.594548,429.1113111,690.4700871
+102,United States of America,2016,3,Both,170,20 to 44,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,1974.049476,1573.473862,2406.45748
+102,United States of America,2016,3,Both,171,45 to 64,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,6637.851102,5327.6209,8023.452612
+102,United States of America,2016,3,Both,154,65 plus,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,9815.723965,8170.197215,11467.77373
+102,United States of America,2016,3,Both,22,All Ages,_dube,"Diabetes and urogenital, blood, and endocrine diseases",341,Impaired kidney function,2016 US Dollar,18989.21909,15720.42879,22212.8305
+102,United States of America,2016,1,Male,170,20 to 44,_inj,Injuries,98,Tobacco,2016 US Dollar,30.88477658,19.54890121,44.69281164
+102,United States of America,2016,1,Male,171,45 to 64,_inj,Injuries,98,Tobacco,2016 US Dollar,285.6461576,191.3869064,396.401344
+102,United States of America,2016,1,Male,154,65 plus,_inj,Injuries,98,Tobacco,2016 US Dollar,367.2385575,238.6862491,528.0994665
+102,United States of America,2016,1,Male,22,All Ages,_inj,Injuries,98,Tobacco,2016 US Dollar,683.7694917,467.1598127,939.5401936
+102,United States of America,2016,2,Female,170,20 to 44,_inj,Injuries,98,Tobacco,2016 US Dollar,25.69561321,17.03599192,37.48359157
+102,United States of America,2016,2,Female,171,45 to 64,_inj,Injuries,98,Tobacco,2016 US Dollar,459.0288341,320.045625,631.0261505
+102,United States of America,2016,2,Female,154,65 plus,_inj,Injuries,98,Tobacco,2016 US Dollar,880.9898075,569.8863796,1261.004855
+102,United States of America,2016,2,Female,22,All Ages,_inj,Injuries,98,Tobacco,2016 US Dollar,1365.714255,940.8524322,1857.814495
+102,United States of America,2016,3,Both,170,20 to 44,_inj,Injuries,98,Tobacco,2016 US Dollar,56.58038979,37.33475887,78.96179467
+102,United States of America,2016,3,Both,171,45 to 64,_inj,Injuries,98,Tobacco,2016 US Dollar,744.6749918,526.2398537,1014.718019
+102,United States of America,2016,3,Both,154,65 plus,_inj,Injuries,98,Tobacco,2016 US Dollar,1248.228365,830.7058591,1735.199709
+102,United States of America,2016,3,Both,22,All Ages,_inj,Injuries,98,Tobacco,2016 US Dollar,2049.483747,1453.793411,2735.423052
+102,United States of America,2016,1,Male,158,<20 years,_inj,Injuries,102,Alcohol use,2016 US Dollar,573.9511801,363.4692532,819.9397724
+102,United States of America,2016,1,Male,170,20 to 44,_inj,Injuries,102,Alcohol use,2016 US Dollar,5074.643315,3600.664676,6829.334935
+102,United States of America,2016,1,Male,171,45 to 64,_inj,Injuries,102,Alcohol use,2016 US Dollar,3684.103583,2206.285668,5619.400005
+102,United States of America,2016,1,Male,154,65 plus,_inj,Injuries,102,Alcohol use,2016 US Dollar,2107.502991,1021.116564,3590.666763
+102,United States of America,2016,1,Male,22,All Ages,_inj,Injuries,102,Alcohol use,2016 US Dollar,11440.20107,7474.511343,16245.12494
+102,United States of America,2016,2,Female,158,<20 years,_inj,Injuries,102,Alcohol use,2016 US Dollar,234.3635962,141.2158651,361.2198973
+102,United States of America,2016,2,Female,170,20 to 44,_inj,Injuries,102,Alcohol use,2016 US Dollar,1758.698977,1118.140534,2634.934536
+102,United States of America,2016,2,Female,171,45 to 64,_inj,Injuries,102,Alcohol use,2016 US Dollar,2403.585913,1193.305139,4155.088628
+102,United States of America,2016,2,Female,154,65 plus,_inj,Injuries,102,Alcohol use,2016 US Dollar,2437.06732,969.7806843,4442.680229
+102,United States of America,2016,2,Female,22,All Ages,_inj,Injuries,102,Alcohol use,2016 US Dollar,6833.715806,3589.587384,11355.695
+102,United States of America,2016,3,Both,158,<20 years,_inj,Injuries,102,Alcohol use,2016 US Dollar,808.3147762,517.0558218,1173.625676
+102,United States of America,2016,3,Both,170,20 to 44,_inj,Injuries,102,Alcohol use,2016 US Dollar,6833.342291,4776.13826,9336.716252
+102,United States of America,2016,3,Both,171,45 to 64,_inj,Injuries,102,Alcohol use,2016 US Dollar,6087.689496,3466.250762,9493.939303
+102,United States of America,2016,3,Both,154,65 plus,_inj,Injuries,102,Alcohol use,2016 US Dollar,4544.57031,2052.009898,7978.218283
+102,United States of America,2016,3,Both,22,All Ages,_inj,Injuries,102,Alcohol use,2016 US Dollar,18273.91687,11286.05693,27374.96158
+102,United States of America,2016,1,Male,158,<20 years,_inj,Injuries,103,Drug use,2016 US Dollar,18.56677805,10.80832817,29.13631036
+102,United States of America,2016,1,Male,170,20 to 44,_inj,Injuries,103,Drug use,2016 US Dollar,173.6769433,98.85399582,282.6218534
+102,United States of America,2016,1,Male,171,45 to 64,_inj,Injuries,103,Drug use,2016 US Dollar,46.93083391,23.71632137,85.87352517
+102,United States of America,2016,1,Male,154,65 plus,_inj,Injuries,103,Drug use,2016 US Dollar,7.350099971,3.632168095,14.17732168
+102,United States of America,2016,1,Male,22,All Ages,_inj,Injuries,103,Drug use,2016 US Dollar,246.5246553,138.6115068,392.5781316
+102,United States of America,2016,2,Female,158,<20 years,_inj,Injuries,103,Drug use,2016 US Dollar,21.65607052,12.10568821,36.77100435
+102,United States of America,2016,2,Female,170,20 to 44,_inj,Injuries,103,Drug use,2016 US Dollar,87.30091496,48.15267403,146.4121793
+102,United States of America,2016,2,Female,171,45 to 64,_inj,Injuries,103,Drug use,2016 US Dollar,29.97300117,12.25745796,59.36987557
+102,United States of America,2016,2,Female,154,65 plus,_inj,Injuries,103,Drug use,2016 US Dollar,2.629727403,1.153369147,5.625975026
+102,United States of America,2016,2,Female,22,All Ages,_inj,Injuries,103,Drug use,2016 US Dollar,141.559714,76.84864224,232.4426521
+102,United States of America,2016,3,Both,158,<20 years,_inj,Injuries,103,Drug use,2016 US Dollar,40.22284856,24.01005328,64.44088136
+102,United States of America,2016,3,Both,170,20 to 44,_inj,Injuries,103,Drug use,2016 US Dollar,260.9778583,146.5261172,420.4919345
+102,United States of America,2016,3,Both,171,45 to 64,_inj,Injuries,103,Drug use,2016 US Dollar,76.90383508,39.98629154,134.7784059
+102,United States of America,2016,3,Both,154,65 plus,_inj,Injuries,103,Drug use,2016 US Dollar,9.979827374,5.115385875,18.6584546
+102,United States of America,2016,3,Both,22,All Ages,_inj,Injuries,103,Drug use,2016 US Dollar,388.0843693,217.3448538,618.8008111
+102,United States of America,2016,1,Male,170,20 to 44,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,129.9100416,100.7692733,166.8979504
+102,United States of America,2016,1,Male,171,45 to 64,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,1897.804153,1434.141159,2418.197121
+102,United States of America,2016,1,Male,154,65 plus,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,5344.279465,4362.300999,6478.917158
+102,United States of America,2016,1,Male,22,All Ages,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,7371.993659,6074.265454,8820.810603
+102,United States of America,2016,2,Female,170,20 to 44,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,164.7012758,128.5499836,204.5488099
+102,United States of America,2016,2,Female,171,45 to 64,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,3682.323776,2864.942891,4642.905322
+102,United States of America,2016,2,Female,154,65 plus,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,16003.64857,12944.91689,18721.45253
+102,United States of America,2016,2,Female,22,All Ages,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,19850.67363,16708.08489,22798.73161
+102,United States of America,2016,3,Both,170,20 to 44,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,294.6113174,236.4180176,360.9071715
+102,United States of America,2016,3,Both,171,45 to 64,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,5580.127929,4456.991248,6813.353488
+102,United States of America,2016,3,Both,154,65 plus,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,21347.92804,18373.866,24580.33421
+102,United States of America,2016,3,Both,22,All Ages,_inj,Injuries,109,Low bone mineral density,2016 US Dollar,27222.66728,23495.00908,30849.32187
+102,United States of America,2016,1,Male,158,<20 years,_inj,Injuries,126,Occupational risks,2016 US Dollar,290.6244411,218.7561809,374.325255
+102,United States of America,2016,1,Male,170,20 to 44,_inj,Injuries,126,Occupational risks,2016 US Dollar,3756.410258,2980.087398,4712.287949
+102,United States of America,2016,1,Male,171,45 to 64,_inj,Injuries,126,Occupational risks,2016 US Dollar,3471.169448,2699.186911,4366.042816
+102,United States of America,2016,1,Male,154,65 plus,_inj,Injuries,126,Occupational risks,2016 US Dollar,251.2443713,190.2379292,324.3344478
+102,United States of America,2016,1,Male,22,All Ages,_inj,Injuries,126,Occupational risks,2016 US Dollar,7769.448518,6231.411989,9550.856826
+102,United States of America,2016,2,Female,158,<20 years,_inj,Injuries,126,Occupational risks,2016 US Dollar,45.5856784,32.66484357,62.08693586
+102,United States of America,2016,2,Female,170,20 to 44,_inj,Injuries,126,Occupational risks,2016 US Dollar,728.6329246,558.180872,927.8477259
+102,United States of America,2016,2,Female,171,45 to 64,_inj,Injuries,126,Occupational risks,2016 US Dollar,883.0018172,669.7970015,1121.272351
+102,United States of America,2016,2,Female,154,65 plus,_inj,Injuries,126,Occupational risks,2016 US Dollar,52.18829101,37.41931517,70.32107144
+102,United States of America,2016,2,Female,22,All Ages,_inj,Injuries,126,Occupational risks,2016 US Dollar,1709.408711,1326.986731,2160.643683
+102,United States of America,2016,3,Both,158,<20 years,_inj,Injuries,126,Occupational risks,2016 US Dollar,336.2101195,259.3413264,424.9093524
+102,United States of America,2016,3,Both,170,20 to 44,_inj,Injuries,126,Occupational risks,2016 US Dollar,4485.043182,3624.153511,5557.574252
+102,United States of America,2016,3,Both,171,45 to 64,_inj,Injuries,126,Occupational risks,2016 US Dollar,4354.171265,3486.363421,5354.39696
+102,United States of America,2016,3,Both,154,65 plus,_inj,Injuries,126,Occupational risks,2016 US Dollar,303.4326623,236.4103745,381.3169328
+102,United States of America,2016,3,Both,22,All Ages,_inj,Injuries,126,Occupational risks,2016 US Dollar,9478.857229,7783.778248,11453.37775
+102,United States of America,2016,2,Female,158,<20 years,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,76.69154893,57.65259314,101.0984674
+102,United States of America,2016,2,Female,170,20 to 44,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,645.3913425,481.7391998,823.0670933
+102,United States of America,2016,2,Female,171,45 to 64,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,289.6784928,194.1404299,420.488405
+102,United States of America,2016,2,Female,154,65 plus,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,44.17924909,29.17498365,71.05296869
+102,United States of America,2016,2,Female,22,All Ages,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,1055.940633,801.105807,1326.567267
+102,United States of America,2016,3,Both,158,<20 years,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,76.69154893,57.65259314,101.0984674
+102,United States of America,2016,3,Both,170,20 to 44,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,645.3913425,481.7391998,823.0670933
+102,United States of America,2016,3,Both,171,45 to 64,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,289.6784928,194.1404299,420.488405
+102,United States of America,2016,3,Both,154,65 plus,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,44.17924909,29.17498365,71.05296869
+102,United States of America,2016,3,Both,22,All Ages,_inj,Injuries,135,Intimate partner violence,2016 US Dollar,1055.940633,801.105807,1326.567267
+102,United States of America,2016,1,Male,158,<20 years,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,10.0056228,3.492372158,17.99608543
+102,United States of America,2016,1,Male,170,20 to 44,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,44.42449915,20.51818172,68.26092591
+102,United States of America,2016,1,Male,171,45 to 64,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,42.26357366,19.88029766,69.9542438
+102,United States of America,2016,1,Male,154,65 plus,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,41.29183293,16.71741678,75.77753069
+102,United States of America,2016,1,Male,22,All Ages,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,137.9855285,63.35288955,211.9935086
+102,United States of America,2016,2,Female,158,<20 years,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,8.509376816,2.867282278,17.24175109
+102,United States of America,2016,2,Female,170,20 to 44,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,38.6986806,18.12448282,61.48588219
+102,United States of America,2016,2,Female,171,45 to 64,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,36.73683711,15.75391265,62.62990429
+102,United States of America,2016,2,Female,154,65 plus,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,45.54004397,20.82871491,74.13555791
+102,United States of America,2016,2,Female,22,All Ages,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,129.4849385,61.91662763,200.1375577
+102,United States of America,2016,3,Both,158,<20 years,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,18.51499962,6.914088492,30.89703668
+102,United States of America,2016,3,Both,170,20 to 44,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,83.12317975,41.73668383,123.1073754
+102,United States of America,2016,3,Both,171,45 to 64,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,79.00041076,39.38541354,120.2360088
+102,United States of America,2016,3,Both,154,65 plus,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,86.8318769,43.23309099,138.042869
+102,United States of America,2016,3,Both,22,All Ages,_mental,Mental and substance use disorders,89,Other environmental risks,2016 US Dollar,267.470467,131.1508314,381.48961
+102,United States of America,2016,1,Male,158,<20 years,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,102.2723685,63.63594191,155.3515775
+102,United States of America,2016,1,Male,170,20 to 44,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,1551.199856,1243.905308,1872.015161
+102,United States of America,2016,1,Male,171,45 to 64,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,2466.660506,2034.181387,2897.51192
+102,United States of America,2016,1,Male,154,65 plus,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,1098.223768,775.1481089,1414.052153
+102,United States of America,2016,1,Male,22,All Ages,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,5218.356499,4361.199754,6155.360236
+102,United States of America,2016,2,Female,158,<20 years,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,88.81424554,54.38014706,164.3719228
+102,United States of America,2016,2,Female,170,20 to 44,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,786.344188,594.974296,1034.693775
+102,United States of America,2016,2,Female,171,45 to 64,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,1051.236644,786.7035374,1360.712194
+102,United States of America,2016,2,Female,154,65 plus,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,225.1085134,168.822973,337.7709432
+102,United States of America,2016,2,Female,22,All Ages,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,2151.503591,1699.846406,2748.422883
+102,United States of America,2016,3,Both,158,<20 years,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,191.086614,129.072794,305.8689587
+102,United States of America,2016,3,Both,170,20 to 44,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,2337.544044,1914.585168,2791.440545
+102,United States of America,2016,3,Both,171,45 to 64,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,3517.89715,2923.237396,4130.132343
+102,United States of America,2016,3,Both,154,65 plus,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,1323.332282,994.9888111,1678.679045
+102,United States of America,2016,3,Both,22,All Ages,_mental,Mental and substance use disorders,102,Alcohol use,2016 US Dollar,7369.860089,6191.590732,8553.433751
+102,United States of America,2016,1,Male,158,<20 years,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,214.0088346,146.652494,308.1927351
+102,United States of America,2016,1,Male,170,20 to 44,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,3751.008591,2793.41198,4805.475174
+102,United States of America,2016,1,Male,171,45 to 64,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,2235.780593,1597.299877,2775.828687
+102,United States of America,2016,1,Male,154,65 plus,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,639.9437381,402.6077963,856.3668836
+102,United States of America,2016,1,Male,22,All Ages,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,6840.741756,5272.943335,8211.442557
+102,United States of America,2016,2,Female,158,<20 years,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,160.0936938,114.1977505,221.1143791
+102,United States of America,2016,2,Female,170,20 to 44,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,2278.895585,1728.837251,2990.341711
+102,United States of America,2016,2,Female,171,45 to 64,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,1326.901662,1029.588461,1645.50209
+102,United States of America,2016,2,Female,154,65 plus,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,657.3978978,430.3434839,881.7920883
+102,United States of America,2016,2,Female,22,All Ages,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,4423.288839,3626.23777,5307.669828
+102,United States of America,2016,3,Both,158,<20 years,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,374.1025284,278.2027334,479.7202093
+102,United States of America,2016,3,Both,170,20 to 44,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,6029.904176,4918.9228,7239.080929
+102,United States of America,2016,3,Both,171,45 to 64,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,3562.682255,2896.523979,4206.028089
+102,United States of America,2016,3,Both,154,65 plus,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,1297.341636,837.5362719,1626.632436
+102,United States of America,2016,3,Both,22,All Ages,_mental,Mental and substance use disorders,103,Drug use,2016 US Dollar,11264.0306,9482.94317,12885.96029
+102,United States of America,2016,2,Female,158,<20 years,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,179.2131112,35.88081312,408.5231895
+102,United States of America,2016,2,Female,170,20 to 44,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,1988.939518,1152.198866,3074.159119
+102,United States of America,2016,2,Female,171,45 to 64,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,1980.452479,1085.22871,3022.860263
+102,United States of America,2016,2,Female,154,65 plus,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,318.3295124,165.2083032,523.5786357
+102,United States of America,2016,2,Female,22,All Ages,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,4466.934621,3178.100356,5945.52267
+102,United States of America,2016,3,Both,158,<20 years,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,179.2131112,35.88081312,408.5231895
+102,United States of America,2016,3,Both,170,20 to 44,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,1988.939518,1152.198866,3074.159119
+102,United States of America,2016,3,Both,171,45 to 64,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,1980.452479,1085.22871,3022.860263
+102,United States of America,2016,3,Both,154,65 plus,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,318.3295124,165.2083032,523.5786357
+102,United States of America,2016,3,Both,22,All Ages,_mental,Mental and substance use disorders,135,Intimate partner violence,2016 US Dollar,4466.934621,3178.100356,5945.52267
+102,United States of America,2016,1,Male,158,<20 years,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,451.5433705,279.5684389,713.1211999
+102,United States of America,2016,1,Male,170,20 to 44,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,551.5859801,392.8540819,757.8337464
+102,United States of America,2016,1,Male,171,45 to 64,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,341.9967666,233.8858435,480.6475327
+102,United States of America,2016,1,Male,154,65 plus,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,89.63906226,60.8338528,125.5631555
+102,United States of America,2016,1,Male,22,All Ages,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,1434.765179,1080.150666,1868.07703
+102,United States of America,2016,2,Female,158,<20 years,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,1222.116768,797.5459358,1761.351917
+102,United States of America,2016,2,Female,170,20 to 44,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,2015.112263,1462.548818,2651.097292
+102,United States of America,2016,2,Female,171,45 to 64,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,1580.615549,1140.570269,2154.391126
+102,United States of America,2016,2,Female,154,65 plus,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,240.2259158,165.1312749,329.4263749
+102,United States of America,2016,2,Female,22,All Ages,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,5058.070496,3981.220516,6185.276908
+102,United States of America,2016,3,Both,158,<20 years,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,1673.660138,1138.340053,2368.247343
+102,United States of America,2016,3,Both,170,20 to 44,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,2566.698243,1925.387303,3306.988506
+102,United States of America,2016,3,Both,171,45 to 64,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,1922.612316,1440.189178,2533.576128
+102,United States of America,2016,3,Both,154,65 plus,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,329.864978,241.8456296,437.0930889
+102,United States of America,2016,3,Both,22,All Ages,_mental,Mental and substance use disorders,381,Childhood maltreatment,2016 US Dollar,6492.835675,5188.753694,7889.183227
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,85,Air pollution,2016 US Dollar,8.172435161,3.185220884,14.51862422
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,85,Air pollution,2016 US Dollar,60.34048378,24.6586679,108.0401291
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,85,Air pollution,2016 US Dollar,100.9446998,40.13633116,183.2675418
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,85,Air pollution,2016 US Dollar,169.4576188,69.97287904,301.9547779
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,85,Air pollution,2016 US Dollar,13.19354423,5.205852121,23.05741861
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,85,Air pollution,2016 US Dollar,66.06618811,27.22171534,116.7312495
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,85,Air pollution,2016 US Dollar,84.36509298,34.68727669,151.5616593
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,85,Air pollution,2016 US Dollar,163.6248253,67.06669074,287.2987501
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,85,Air pollution,2016 US Dollar,21.36597939,8.302264251,37.20901624
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,85,Air pollution,2016 US Dollar,126.4066719,51.88967476,225.1352723
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,85,Air pollution,2016 US Dollar,185.3097928,75.33697626,331.6949669
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,85,Air pollution,2016 US Dollar,333.0824441,138.6721556,584.2002605
+102,United States of America,2016,1,Male,158,<20 years,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,0.642989911,0.107717165,1.450370434
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,5.814501777,2.275305825,11.05866363
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,36.91735434,14.14155469,71.74554491
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,62.76192772,26.04506261,121.4688844
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,106.1367737,46.19684284,191.3886612
+102,United States of America,2016,2,Female,158,<20 years,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,0.634566378,0.105842301,1.507581237
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,8.985431939,3.385482057,16.67011381
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,41.16730885,15.67920782,80.33783722
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,53.23533518,22.37058445,101.21626
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,104.0226423,48.04917322,183.5249358
+102,United States of America,2016,3,Both,158,<20 years,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,1.277556289,0.216191736,2.951677451
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,14.79993372,5.716684355,27.55152625
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,78.08466318,29.53895228,150.6654475
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,115.9972629,47.98563015,219.6781231
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,89,Other environmental risks,2016 US Dollar,210.1594161,95.54778897,374.9886612
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,98,Tobacco,2016 US Dollar,272.8810909,151.6117683,428.6378146
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,98,Tobacco,2016 US Dollar,3595.302173,3026.963019,4205.479334
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,98,Tobacco,2016 US Dollar,4047.247233,3459.739884,4773.718556
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,98,Tobacco,2016 US Dollar,7915.430497,6874.103241,9112.706915
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,98,Tobacco,2016 US Dollar,273.8729109,178.6314552,396.0865151
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,98,Tobacco,2016 US Dollar,2307.322697,1886.27989,2724.015929
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,98,Tobacco,2016 US Dollar,2547.705474,2204.588156,2954.599888
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,98,Tobacco,2016 US Dollar,5128.901082,4450.222147,5892.256351
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,98,Tobacco,2016 US Dollar,546.7540018,338.4578353,811.3166216
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,98,Tobacco,2016 US Dollar,5902.62487,4979.543925,6915.78581
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,98,Tobacco,2016 US Dollar,6594.952707,5732.588776,7712.003669
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,98,Tobacco,2016 US Dollar,13044.33158,11435.99473,14924.8775
+102,United States of America,2016,1,Male,158,<20 years,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,14.77422165,10.68570176,20.68756726
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,266.4909289,212.7563809,332.7410426
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,1532.793534,1206.750948,1884.205306
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,886.4158708,683.8775455,1128.935737
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,2700.474556,2124.869913,3277.002019
+102,United States of America,2016,2,Female,158,<20 years,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,6.902515304,4.368254115,10.57656914
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,334.7950125,255.2345526,441.3342782
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,857.3124783,631.8500757,1088.083144
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,467.3311686,330.8212955,626.7966759
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,1666.341175,1254.482261,2112.11262
+102,United States of America,2016,3,Both,158,<20 years,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,21.67673695,15.35891342,30.5973144
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,601.2859414,475.0421448,750.0976235
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,2390.106013,1837.699256,2954.445997
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,1353.747039,1032.153311,1732.80226
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,102,Alcohol use,2016 US Dollar,4366.81573,3383.53025,5347.277612
+102,United States of America,2016,1,Male,158,<20 years,_neo,Neoplasms,103,Drug use,2016 US Dollar,0.717405816,0.501235276,0.984387924
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,103,Drug use,2016 US Dollar,13.39596005,11.38803174,15.92854314
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,103,Drug use,2016 US Dollar,187.6721261,153.9539493,216.1362775
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,103,Drug use,2016 US Dollar,123.2326355,97.69161454,178.9868304
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,103,Drug use,2016 US Dollar,325.0181274,267.8252828,384.2481003
+102,United States of America,2016,2,Female,158,<20 years,_neo,Neoplasms,103,Drug use,2016 US Dollar,0.950783578,0.689007187,1.29870733
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,103,Drug use,2016 US Dollar,19.9706269,16.86530804,23.63717591
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,103,Drug use,2016 US Dollar,124.7396827,94.5621726,154.924438
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,103,Drug use,2016 US Dollar,108.2625784,72.64585389,159.7401877
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,103,Drug use,2016 US Dollar,253.9236716,187.1225946,332.5519318
+102,United States of America,2016,3,Both,158,<20 years,_neo,Neoplasms,103,Drug use,2016 US Dollar,1.668189395,1.270297158,2.207084358
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,103,Drug use,2016 US Dollar,33.36658695,28.83791306,39.47951342
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,103,Drug use,2016 US Dollar,312.4118087,260.9954368,358.6635968
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,103,Drug use,2016 US Dollar,231.4952139,186.0076129,326.5885581
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,103,Drug use,2016 US Dollar,578.941799,489.7423687,693.9814866
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,18.70318585,4.116138186,42.55483692
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,480.3783397,119.4786066,1027.042087
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,835.9395503,224.8433542,1711.121152
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,1335.021076,356.8416922,2751.546904
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,40.06079541,9.438127138,91.82664342
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,484.0970783,125.3325291,1057.139181
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,736.6318863,200.7989615,1511.527803
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,1260.78976,339.3839915,2656.413085
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,58.76398126,14.71197211,130.6246005
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,964.475418,260.3288896,2029.570513
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,1572.571437,452.7808489,3121.691348
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,105,High fasting plasma glucose,2016 US Dollar,2595.810836,740.4704693,5270.889618
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,654.2147154,400.0786788,943.984801
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,1937.456085,1244.370071,2655.909544
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,1285.861325,749.5184213,1894.982021
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,3877.532126,2440.277907,5434.965669
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,593.549608,371.2785877,865.8648338
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,1682.246145,1104.32032,2287.349631
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,1384.100384,866.9595519,1970.693267
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,3659.896137,2368.276307,5059.681113
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,1247.764323,809.4636092,1735.915852
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,3619.70223,2409.755869,4852.503829
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,2669.961709,1656.763535,3789.460032
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,108,High body-mass index,2016 US Dollar,7537.428263,4945.919428,10133.29589
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,193.9100955,139.8447266,245.29512
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,1139.365168,826.0062198,1481.199431
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,993.6523787,736.6820467,1291.584452
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,2326.927643,1714.369913,2974.443937
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,175.8007617,124.1463592,229.8124436
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,796.6968748,555.0448543,1058.951231
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,888.3567698,640.9477791,1157.508279
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,1860.854406,1340.750381,2424.561998
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,369.7108572,267.1379771,475.6536721
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,1936.062043,1397.43312,2522.674578
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,1882.009149,1396.661878,2436.829711
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,110,Dietary risks,2016 US Dollar,4187.782049,3087.66425,5388.755539
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,13.26353649,2.235430673,30.28560394
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,89.22018821,13.74781796,205.99144
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,80.78270298,10.36770043,194.54417
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,183.2664277,25.91249821,428.4388127
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,28.32664017,6.873424736,61.11955876
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,112.4365331,24.85798158,238.2876987
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,112.6485494,22.03505039,245.7093166
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,253.4117227,53.27111338,535.5306185
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,41.59017666,9.648513481,86.13214511
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,201.6567213,42.36133727,434.1239826
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,193.4312524,36.51451159,439.5743315
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,125,Low physical activity,2016 US Dollar,436.6781504,91.62906491,960.921161
+102,United States of America,2016,1,Male,158,<20 years,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,1.483527592,0.408504984,2.673380352
+102,United States of America,2016,1,Male,170,20 to 44,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,37.11881152,15.91835002,58.86478719
+102,United States of America,2016,1,Male,171,45 to 64,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,187.5164966,129.3324911,258.0897804
+102,United States of America,2016,1,Male,154,65 plus,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,781.7546023,530.5503997,1055.850716
+102,United States of America,2016,1,Male,22,All Ages,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,1007.873438,711.5169389,1347.726321
+102,United States of America,2016,2,Female,158,<20 years,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,1.911027114,0.455435024,3.440623015
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,47.99393416,19.91040572,78.63579932
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,115.2234839,74.18872864,160.8027518
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,183.476059,135.258042,239.5321529
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,348.6045042,257.2223985,449.8734144
+102,United States of America,2016,3,Both,158,<20 years,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,3.394554706,0.884803532,6.079142883
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,85.11274568,35.83349784,138.1516556
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,302.7399805,209.4768391,411.5753672
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,965.2306613,699.3528461,1256.485673
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,126,Occupational risks,2016 US Dollar,1356.477942,1027.60767,1746.291842
+102,United States of America,2016,2,Female,158,<20 years,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,23.90125908,12.3702137,35.65530281
+102,United States of America,2016,2,Female,170,20 to 44,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,332.975793,246.2179471,426.5350689
+102,United States of America,2016,2,Female,171,45 to 64,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,324.8914098,244.5502557,398.6890352
+102,United States of America,2016,2,Female,154,65 plus,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,103.4232058,80.90173624,123.7331562
+102,United States of America,2016,2,Female,22,All Ages,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,785.1916677,630.7095033,943.186593
+102,United States of America,2016,3,Both,158,<20 years,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,23.90125908,12.3702137,35.65530281
+102,United States of America,2016,3,Both,170,20 to 44,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,332.975793,246.2179471,426.5350689
+102,United States of America,2016,3,Both,171,45 to 64,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,324.8914098,244.5502557,398.6890352
+102,United States of America,2016,3,Both,154,65 plus,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,103.4232058,80.90173624,123.7331562
+102,United States of America,2016,3,Both,22,All Ages,_neo,Neoplasms,170,Unsafe sex,2016 US Dollar,785.1916677,630.7095033,943.186593
+102,United States of America,2016,1,Male,170,20 to 44,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,275.3781503,197.5720757,364.0871761
+102,United States of America,2016,1,Male,171,45 to 64,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,629.9519335,442.4912851,828.1145127
+102,United States of America,2016,1,Male,154,65 plus,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,3296.040514,1672.27503,5151.019518
+102,United States of America,2016,1,Male,22,All Ages,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,4201.370598,2391.211489,6166.229078
+102,United States of America,2016,2,Female,170,20 to 44,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,195.7752042,130.0821061,280.7614072
+102,United States of America,2016,2,Female,171,45 to 64,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,493.0957924,333.7881222,674.0845612
+102,United States of America,2016,2,Female,154,65 plus,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,4607.795548,2161.326199,7167.828754
+102,United States of America,2016,2,Female,22,All Ages,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,5296.666545,2828.742615,7903.50157
+102,United States of America,2016,3,Both,170,20 to 44,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,471.1533545,338.9799516,627.1977225
+102,United States of America,2016,3,Both,171,45 to 64,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,1123.047726,803.3431762,1450.484525
+102,United States of America,2016,3,Both,154,65 plus,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,7903.836063,3877.061061,12077.09251
+102,United States of America,2016,3,Both,22,All Ages,_neuro,Neurological disorders,98,Tobacco,2016 US Dollar,9498.037143,5292.117214,13849.80263
+102,United States of America,2016,1,Male,158,<20 years,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,64.80503027,38.15007801,95.13429012
+102,United States of America,2016,1,Male,170,20 to 44,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,603.31724,433.1911934,819.5073292
+102,United States of America,2016,1,Male,171,45 to 64,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,476.8674895,290.9930189,695.8358408
+102,United States of America,2016,1,Male,154,65 plus,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,194.1969592,106.8108638,276.6262392
+102,United States of America,2016,1,Male,22,All Ages,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,1339.186719,894.4675086,1806.389557
+102,United States of America,2016,2,Female,158,<20 years,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,41.43248066,18.80961151,71.80202503
+102,United States of America,2016,2,Female,170,20 to 44,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,441.5250969,258.4335477,633.689043
+102,United States of America,2016,2,Female,171,45 to 64,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,278.3654438,142.9853161,437.4578981
+102,United States of America,2016,2,Female,154,65 plus,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,136.9522138,61.66997309,226.5725248
+102,United States of America,2016,2,Female,22,All Ages,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,898.2752351,498.0118699,1294.030666
+102,United States of America,2016,3,Both,158,<20 years,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,106.2375109,58.42813029,159.0689909
+102,United States of America,2016,3,Both,170,20 to 44,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,1044.842337,706.710339,1388.184449
+102,United States of America,2016,3,Both,171,45 to 64,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,755.2329333,448.0905424,1100.682224
+102,United States of America,2016,3,Both,154,65 plus,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,331.149173,174.9632869,491.6012058
+102,United States of America,2016,3,Both,22,All Ages,_neuro,Neurological disorders,102,Alcohol use,2016 US Dollar,2237.461954,1456.235951,3007.77184
+102,United States of America,2016,1,Male,170,20 to 44,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,3.58699145,0.404836002,9.918396783
+102,United States of America,2016,1,Male,171,45 to 64,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,113.2913058,20.96122286,272.2431175
+102,United States of America,2016,1,Male,154,65 plus,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,2839.167804,557.2312035,6580.000931
+102,United States of America,2016,1,Male,22,All Ages,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,2956.046101,573.6254816,6797.224086
+102,United States of America,2016,2,Female,170,20 to 44,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,0.662740349,0.100640786,1.695272234
+102,United States of America,2016,2,Female,171,45 to 64,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,75.77907084,12.80117472,179.3721382
+102,United States of America,2016,2,Female,154,65 plus,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,5253.791629,1005.010241,12094.47688
+102,United States of America,2016,2,Female,22,All Ages,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,5330.23344,1016.699011,12261.10851
+102,United States of America,2016,3,Both,170,20 to 44,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,4.2497318,0.599949758,11.27583573
+102,United States of America,2016,3,Both,171,45 to 64,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,189.0703766,41.9692051,426.0139081
+102,United States of America,2016,3,Both,154,65 plus,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,8092.959433,1850.479414,17679.42251
+102,United States of America,2016,3,Both,22,All Ages,_neuro,Neurological disorders,105,High fasting plasma glucose,2016 US Dollar,8286.279541,1902.111573,18069.83804
+102,United States of America,2016,1,Male,170,20 to 44,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,27.36964021,5.724482596,61.35341291
+102,United States of America,2016,1,Male,171,45 to 64,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,324.0977899,87.23071246,635.1358143
+102,United States of America,2016,1,Male,154,65 plus,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,4341.097861,1114.324089,8600.375048
+102,United States of America,2016,1,Male,22,All Ages,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,4692.565291,1231.102651,9220.135497
+102,United States of America,2016,2,Female,170,20 to 44,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,6.234136513,1.425633386,12.32728081
+102,United States of America,2016,2,Female,171,45 to 64,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,265.0587144,64.32077902,510.2957234
+102,United States of America,2016,2,Female,154,65 plus,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,11220.83133,2768.84712,21742.05558
+102,United States of America,2016,2,Female,22,All Ages,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,11492.12418,2834.183766,22392.19169
+102,United States of America,2016,3,Both,170,20 to 44,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,33.60377672,10.50043032,68.08772224
+102,United States of America,2016,3,Both,171,45 to 64,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,589.1565043,264.6246277,1014.344803
+102,United States of America,2016,3,Both,154,65 plus,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,15561.92919,6171.7118,28160.49921
+102,United States of America,2016,3,Both,22,All Ages,_neuro,Neurological disorders,108,High body-mass index,2016 US Dollar,16184.68947,6540.721008,29087.41678
+102,United States of America,2016,1,Male,158,<20 years,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,1.088601702,0.623237683,1.729524249
+102,United States of America,2016,1,Male,170,20 to 44,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,619.3434311,484.6787552,797.5284602
+102,United States of America,2016,1,Male,171,45 to 64,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,2428.298789,1871.915602,3194.552861
+102,United States of America,2016,1,Male,154,65 plus,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,1088.957925,868.8078909,1398.585372
+102,United States of America,2016,1,Male,22,All Ages,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,4137.688747,3311.756768,5300.594252
+102,United States of America,2016,2,Female,158,<20 years,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,0.376232901,0.217803899,0.589010455
+102,United States of America,2016,2,Female,170,20 to 44,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,525.8622608,385.1635294,708.0716082
+102,United States of America,2016,2,Female,171,45 to 64,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,1947.964052,1484.935629,2582.507175
+102,United States of America,2016,2,Female,154,65 plus,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,881.5000537,673.8559699,1159.157193
+102,United States of America,2016,2,Female,22,All Ages,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,3355.7026,2673.360535,4322.095649
+102,United States of America,2016,3,Both,158,<20 years,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,1.464834603,0.865644049,2.288703194
+102,United States of America,2016,3,Both,170,20 to 44,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,1145.205692,908.1731527,1471.47957
+102,United States of America,2016,3,Both,171,45 to 64,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,4376.262842,3442.799635,5732.481629
+102,United States of America,2016,3,Both,154,65 plus,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,1970.457978,1582.962169,2482.591132
+102,United States of America,2016,3,Both,22,All Ages,cirrhosis,Cirrhosis,102,Alcohol use,2016 US Dollar,7493.391347,6109.077374,9510.579193
+102,United States of America,2016,1,Male,158,<20 years,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,9.916728204,6.870022893,13.73428383
+102,United States of America,2016,1,Male,170,20 to 44,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,846.9828563,662.1281165,1103.206775
+102,United States of America,2016,1,Male,171,45 to 64,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,2619.122777,2040.001448,3443.107455
+102,United States of America,2016,1,Male,154,65 plus,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,1122.014884,905.0081729,1425.071996
+102,United States of America,2016,1,Male,22,All Ages,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,4598.037246,3696.513033,5885.168261
+102,United States of America,2016,2,Female,158,<20 years,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,3.794906064,2.691167277,5.279625928
+102,United States of America,2016,2,Female,170,20 to 44,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,764.3658437,558.7144606,1028.703744
+102,United States of America,2016,2,Female,171,45 to 64,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,2361.044386,1802.404334,3118.565123
+102,United States of America,2016,2,Female,154,65 plus,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,999.8960655,753.7874804,1336.843169
+102,United States of America,2016,2,Female,22,All Ages,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,4129.101202,3273.525149,5315.532044
+102,United States of America,2016,3,Both,158,<20 years,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,13.71163427,9.921704561,18.82807257
+102,United States of America,2016,3,Both,170,20 to 44,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,1611.3487,1268.263539,2078.727569
+102,United States of America,2016,3,Both,171,45 to 64,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,4980.167164,3937.01481,6497.878712
+102,United States of America,2016,3,Both,154,65 plus,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,2121.91095,1690.626281,2639.791264
+102,United States of America,2016,3,Both,22,All Ages,cirrhosis,Cirrhosis,103,Drug use,2016 US Dollar,8727.138448,7089.436357,11151.68932
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,473.7986689,318.6171488,650.4398382
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,3222.431737,2260.697879,4255.699005
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,3175.664499,2320.878166,4096.983159
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,6871.894905,5321.259657,8522.068488
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,336.2064064,226.7690161,466.2238521
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,1856.099122,1310.561333,2435.580345
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,3413.500503,2480.040057,4349.111446
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,5605.806032,4295.548263,6951.427761
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,810.0050754,550.5447043,1109.664909
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,5078.53086,3604.114807,6669.201854
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,6589.165001,4820.365517,8375.477679
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,85,Air pollution,2016 US Dollar,12477.70094,9696.441259,15589.47108
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,44.07266748,0.965894913,145.2561905
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,1160.960185,330.1078419,2199.851856
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,2143.878097,1115.177823,3259.011241
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,3348.910949,1452.480238,5497.532308
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,30.82203782,0.325518992,118.1462257
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,443.7639063,66.95433242,943.6251763
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,1434.543095,547.5856573,2398.922921
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,1909.129039,616.1652731,3422.048008
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,74.8947053,1.277493698,259.3872468
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,1604.724091,398.846854,3103.271136
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,3578.421192,1699.055409,5663.445347
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,89,Other environmental risks,2016 US Dollar,5258.039988,2136.171975,8856.483459
+102,United States of America,2016,1,Male,158,<20 years,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,762.174443,656.1217558,922.1893013
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,846.5710516,741.0078259,985.8891026
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,995.976618,822.344986,1219.086645
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,1014.726731,915.6381161,1120.630777
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,3619.448844,3245.182998,4130.463999
+102,United States of America,2016,2,Female,158,<20 years,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,776.0918989,680.2902727,928.3520382
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,1044.592255,923.3376652,1240.588247
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,798.0697088,673.2556318,987.1613216
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,451.7771836,414.2006327,492.2861128
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,3070.531046,2757.742071,3580.600511
+102,United States of America,2016,3,Both,158,<20 years,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,1538.266342,1353.957296,1820.33656
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,1891.163306,1674.838689,2235.229002
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,1794.046327,1503.445454,2201.279508
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,1466.503915,1335.647282,1595.62368
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,92,Child and maternal malnutrition,2016 US Dollar,6689.97989,6040.771082,7653.148577
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,1456.128981,1232.888019,1701.853445
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,12823.51512,11118.52589,14530.25616
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,10436.63895,9289.627279,11774.69742
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,24716.28306,22016.54232,27534.91708
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,1037.133302,821.2435711,1259.91661
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,7242.81774,6188.681718,8440.87694
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,9313.628419,7958.631952,10677.12403
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,17593.57946,15248.63506,20040.53604
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,2493.262283,2096.958674,2908.121535
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,20066.33286,17405.63596,22786.05849
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,19750.26737,17509.96599,22062.57574
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,98,Tobacco,2016 US Dollar,42309.86252,37717.19352,47200.47977
+102,United States of America,2016,1,Male,158,<20 years,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,10.59877034,4.849451799,17.49473716
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,470.3456653,150.4092255,813.3193592
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,520.6316673,-1789.561779,3092.065582
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,307.0794439,253.6415792,2866.665774
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,694.496659,-4401.524592,6036.937038
+102,United States of America,2016,2,Female,158,<20 years,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,4.496188388,-0.974105687,11.666971
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,99.34358294,-125.7984826,315.8803533
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,436.9340588,167.2881016,1518.744017
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,1402.391766,368.7828984,3179.236675
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,1735.486054,1281.735779,4745.934265
+102,United States of America,2016,3,Both,158,<20 years,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,15.09495873,5.070899374,27.30691632
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,569.6892482,111.9236477,1070.569329
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,83.69760859,-2547.066396,3181.993353
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,1709.47121,265.9660216,5052.591975
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,102,Alcohol use,2016 US Dollar,1040.989395,584.4441146,1178.509394
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,445.33361,263.6427432,687.2017613
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,8408.047673,5667.342313,11541.27359
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,14434.83242,9654.648212,20524.58671
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,23288.21371,16656.70929,31864.03129
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,376.886801,222.5223235,576.70191
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,4285.190657,3126.081594,5762.272203
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,12694.48504,8548.352477,18558.99969
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,17356.56249,12558.01172,24229.58552
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,822.220411,491.8581184,1255.01387
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,12693.23833,8782.5986,17067.71217
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,27129.31746,18263.17153,39461.8118
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,105,High fasting plasma glucose,2016 US Dollar,40644.7762,29596.1177,55748.99664
+102,United States of America,2016,1,Male,158,<20 years,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,11.45150259,10.15987328,13.2396476
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,2513.197654,1972.098959,3093.202732
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,21052.52776,16986.03513,26640.98355
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,24784.10943,20287.32502,30250.65457
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,48361.28634,40409.01061,58265.24993
+102,United States of America,2016,2,Female,158,<20 years,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,25.74018322,20.67274055,45.50955881
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,1456.00872,1041.552181,1941.127754
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,11622.53257,9716.496927,13568.01379
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,29244.94174,24429.21284,34295.98122
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,42349.22321,36166.7054,48496.57103
+102,United States of America,2016,3,Both,158,<20 years,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,37.19168581,31.07441932,56.73411061
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,3969.206373,3062.607964,4941.165605
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,32675.06032,27208.13672,39145.80351
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,54029.05117,45109.43271,63036.37778
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,107,High systolic blood pressure,2016 US Dollar,90710.50956,76663.4953,104640.0394
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,2807.166091,2090.311304,3419.21684
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,17127.97907,12038.32952,21530.52638
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,13989.30036,8602.50312,19402.86512
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,33924.44552,23069.54894,44015.26783
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,2405.247436,1941.912265,2921.462294
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,10714.88051,7952.815186,13186.98237
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,15005.82586,10069.61004,20177.695
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,28125.9538,20479.831,35569.60953
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,5212.413527,4036.181272,6281.494094
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,27842.85958,20097.53635,34585.74655
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,28995.12621,19006.75704,39391.33443
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,108,High body-mass index,2016 US Dollar,62050.39932,43726.88504,78809.03922
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,3392.605269,2928.923409,3813.719757
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,24585.053,21579.21471,27792.49004
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,24598.37384,21596.10023,28018.59574
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,52576.03212,46508.30577,58432.5296
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,2686.022022,2314.72409,3122.59295
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,13519.39594,11859.24785,15436.25949
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,23511.21259,19527.41352,27542.75771
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,39716.63055,34435.63939,44961.59184
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,6078.627292,5280.558258,6851.895865
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,38104.44895,33786.66799,42791.96142
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,48109.58643,42202.95979,54523.13714
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,110,Dietary risks,2016 US Dollar,92292.66267,82530.22789,102739.25
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,197.4663782,90.9934392,339.7583744
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,2192.279444,1052.949081,3623.279137
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,3660.377764,1890.452966,5863.745993
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,6050.123586,3056.261249,9736.788589
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,186.5631479,94.93271804,303.2426806
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,1411.682074,715.3152272,2251.818138
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,4273.99973,2204.60451,6796.341075
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,5872.244952,3000.618268,9337.927812
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,384.0295261,185.1491254,641.3214092
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,3603.961518,1779.860308,5832.770229
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,7934.377494,4070.561255,12655.39062
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,125,Low physical activity,2016 US Dollar,11922.36854,6082.147536,19056.77069
+102,United States of America,2016,1,Male,158,<20 years,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,0.375500857,0.138019798,0.64266178
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,33.14823607,20.61549689,47.70680528
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,255.2364116,162.3219066,353.2249392
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,500.1554531,339.9627629,669.3756783
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,788.9156017,598.0102313,993.5559855
+102,United States of America,2016,2,Female,158,<20 years,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,0.05844222,0.018899188,0.105215152
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,10.12279005,6.158719287,14.91633007
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,133.9812815,86.56334006,192.4630769
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,373.6013468,231.9004096,525.5175061
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,517.7638605,366.5742476,681.0995431
+102,United States of America,2016,3,Both,158,<20 years,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,0.433943076,0.187088324,0.706756969
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,43.27102612,29.61618305,59.17598274
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,389.2176931,273.7157439,513.9728818
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,873.7567999,663.3576944,1112.710735
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,126,Occupational risks,2016 US Dollar,1306.679462,1060.946022,1560.305033
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,162.4405085,117.1909741,219.422429
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,2299.514452,1841.511087,2841.823672
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,4526.190552,3761.804998,5408.571665
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,6988.145512,6074.582558,8049.95925
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,197.0053333,145.2890862,265.1061186
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,1555.351458,1256.808573,1886.396954
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,5426.071861,4382.084545,6566.33371
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,7178.428653,6010.520296,8446.633695
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,359.4458417,263.9352881,483.4780585
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,3854.86591,3109.858849,4719.206793
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,9952.262413,8243.587395,11827.0527
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,341,Impaired kidney function,2016 US Dollar,14166.57416,12206.89916,16384.08014
+102,United States of America,2016,1,Male,170,20 to 44,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,2057.26284,1719.562239,2408.091952
+102,United States of America,2016,1,Male,171,45 to 64,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,14665.75332,12167.72077,17289.77243
+102,United States of America,2016,1,Male,154,65 plus,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,9592.061383,6486.447865,12974.77776
+102,United States of America,2016,1,Male,22,All Ages,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,26315.07754,21397.05481,32044.58581
+102,United States of America,2016,2,Female,170,20 to 44,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,1374.835456,1118.162435,1641.153237
+102,United States of America,2016,2,Female,171,45 to 64,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,7918.084442,6663.1434,9259.894163
+102,United States of America,2016,2,Female,154,65 plus,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,11005.86035,7357.220757,15336.82901
+102,United States of America,2016,2,Female,22,All Ages,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,20298.78025,15829.10864,25443.46687
+102,United States of America,2016,3,Both,170,20 to 44,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,3432.098296,2877.670576,3979.508226
+102,United States of America,2016,3,Both,171,45 to 64,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,22583.83776,19019.19995,26456.02313
+102,United States of America,2016,3,Both,154,65 plus,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,20597.92173,14133.75557,27983.64412
+102,United States of America,2016,3,Both,22,All Ages,cvd,Cardiovascular diseases,367,High LDL cholesterol,2016 US Dollar,46613.85779,37882.81979,56965.93056
+102,United States of America,2016,1,Male,170,20 to 44,digest,Digestive diseases,98,Tobacco,2016 US Dollar,120.9287778,74.27713556,171.7348303
+102,United States of America,2016,1,Male,171,45 to 64,digest,Digestive diseases,98,Tobacco,2016 US Dollar,271.7902564,167.891504,396.6695898
+102,United States of America,2016,1,Male,154,65 plus,digest,Digestive diseases,98,Tobacco,2016 US Dollar,144.0264733,88.64099205,209.3545622
+102,United States of America,2016,1,Male,22,All Ages,digest,Digestive diseases,98,Tobacco,2016 US Dollar,536.7455075,336.5570282,765.4085904
+102,United States of America,2016,2,Female,170,20 to 44,digest,Digestive diseases,98,Tobacco,2016 US Dollar,210.7499611,127.300115,307.1082304
+102,United States of America,2016,2,Female,171,45 to 64,digest,Digestive diseases,98,Tobacco,2016 US Dollar,281.376719,167.8777211,416.8190504
+102,United States of America,2016,2,Female,154,65 plus,digest,Digestive diseases,98,Tobacco,2016 US Dollar,109.5761751,63.71982644,161.8864554
+102,United States of America,2016,2,Female,22,All Ages,digest,Digestive diseases,98,Tobacco,2016 US Dollar,601.7028553,361.7540112,867.7055449
+102,United States of America,2016,3,Both,170,20 to 44,digest,Digestive diseases,98,Tobacco,2016 US Dollar,331.678739,205.5356361,472.3078561
+102,United States of America,2016,3,Both,171,45 to 64,digest,Digestive diseases,98,Tobacco,2016 US Dollar,553.1669754,342.6392682,798.3575399
+102,United States of America,2016,3,Both,154,65 plus,digest,Digestive diseases,98,Tobacco,2016 US Dollar,253.6026484,151.7232048,366.023423
+102,United States of America,2016,3,Both,22,All Ages,digest,Digestive diseases,98,Tobacco,2016 US Dollar,1138.448363,701.8714229,1614.022929
+102,United States of America,2016,1,Male,158,<20 years,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,13.71223543,6.825109708,23.07545934
+102,United States of America,2016,1,Male,170,20 to 44,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,596.7891452,379.346219,832.8006046
+102,United States of America,2016,1,Male,171,45 to 64,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,635.8897353,326.4681721,960.2507988
+102,United States of America,2016,1,Male,154,65 plus,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,175.6408243,50.80186676,315.1485271
+102,United States of America,2016,1,Male,22,All Ages,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,1422.03194,806.6784392,2052.692544
+102,United States of America,2016,2,Female,158,<20 years,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,9.109424937,2.034169835,18.07769856
+102,United States of America,2016,2,Female,170,20 to 44,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,308.9145844,133.5417347,501.2073439
+102,United States of America,2016,2,Female,171,45 to 64,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,280.7455721,50.0798806,520.7588053
+102,United States of America,2016,2,Female,154,65 plus,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,101.804162,-18.63935987,249.3860886
+102,United States of America,2016,2,Female,22,All Ages,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,700.5737435,186.9237633,1244.813924
+102,United States of America,2016,3,Both,158,<20 years,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,22.82166037,10.08886472,41.22672715
+102,United States of America,2016,3,Both,170,20 to 44,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,905.7037296,522.1979907,1308.98793
+102,United States of America,2016,3,Both,171,45 to 64,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,916.6353074,392.0929049,1478.297508
+102,United States of America,2016,3,Both,154,65 plus,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,277.4449863,31.62533084,540.7761311
+102,United States of America,2016,3,Both,22,All Ages,digest,Digestive diseases,102,Alcohol use,2016 US Dollar,2122.605684,987.8739466,3282.622546
+102,United States of America,2016,1,Male,170,20 to 44,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,731.4581203,446.4978034,1052.376389
+102,United States of America,2016,1,Male,171,45 to 64,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,1298.71431,785.2657585,1938.529202
+102,United States of America,2016,1,Male,154,65 plus,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,883.8137807,504.9846966,1329.807746
+102,United States of America,2016,1,Male,22,All Ages,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,2913.986211,1771.859863,4295.078652
+102,United States of America,2016,2,Female,170,20 to 44,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,3094.252757,2230.287762,3973.601292
+102,United States of America,2016,2,Female,171,45 to 64,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,2557.320019,1847.521216,3322.882617
+102,United States of America,2016,2,Female,154,65 plus,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,1564.437764,1082.084785,2054.506116
+102,United States of America,2016,2,Female,22,All Ages,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,7216.010541,5266.094152,9240.424828
+102,United States of America,2016,3,Both,170,20 to 44,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,3825.710878,2795.554948,4920.782138
+102,United States of America,2016,3,Both,171,45 to 64,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,3856.034329,2728.060942,5088.050745
+102,United States of America,2016,3,Both,154,65 plus,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,2448.251545,1652.850231,3287.438306
+102,United States of America,2016,3,Both,22,All Ages,digest,Digestive diseases,108,High body-mass index,2016 US Dollar,10129.99675,7196.438633,13037.88756
+102,United States of America,2016,1,Male,170,20 to 44,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,2588.606154,1845.884,3414.08675
+102,United States of America,2016,1,Male,171,45 to 64,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,7725.594465,5936.613173,9714.804297
+102,United States of America,2016,1,Male,154,65 plus,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,3915.486934,2928.169983,5048.537378
+102,United States of America,2016,1,Male,22,All Ages,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,14229.68755,11013.81374,17683.4432
+102,United States of America,2016,2,Female,170,20 to 44,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,2646.235408,1922.353144,3453.216868
+102,United States of America,2016,2,Female,171,45 to 64,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,7320.303318,5559.770669,9228.337063
+102,United States of America,2016,2,Female,154,65 plus,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,3656.040421,2683.284535,4838.81228
+102,United States of America,2016,2,Female,22,All Ages,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,13622.57915,10417.16093,17076.638
+102,United States of America,2016,3,Both,170,20 to 44,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,5234.841561,3926.841383,6650.699703
+102,United States of America,2016,3,Both,171,45 to 64,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,15045.89778,11653.97857,18710.80985
+102,United States of America,2016,3,Both,154,65 plus,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,7571.527355,5751.014349,9465.329144
+102,United States of America,2016,3,Both,22,All Ages,msk,Musculoskeletal disorders,98,Tobacco,2016 US Dollar,27852.2667,21626.83096,34385.27528
+102,United States of America,2016,1,Male,170,20 to 44,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,1801.86059,1105.935801,2570.331109
+102,United States of America,2016,1,Male,171,45 to 64,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,8960.737548,5339.91531,12499.05983
+102,United States of America,2016,1,Male,154,65 plus,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,6169.665646,3400.52262,8941.136446
+102,United States of America,2016,1,Male,22,All Ages,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,16932.26378,9995.103319,23398.74404
+102,United States of America,2016,2,Female,170,20 to 44,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,2635.001227,1711.213925,3601.588723
+102,United States of America,2016,2,Female,171,45 to 64,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,13184.96846,8432.423725,18163.5532
+102,United States of America,2016,2,Female,154,65 plus,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,12298.79674,7151.88597,17842.32699
+102,United States of America,2016,2,Female,22,All Ages,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,28118.76643,17452.57472,39218.4953
+102,United States of America,2016,3,Both,170,20 to 44,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,4436.861817,2845.308603,6039.628017
+102,United States of America,2016,3,Both,171,45 to 64,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,22145.70601,14256.63682,29550.16591
+102,United States of America,2016,3,Both,154,65 plus,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,18468.46239,11129.32354,25850.17836
+102,United States of America,2016,3,Both,22,All Ages,msk,Musculoskeletal disorders,108,High body-mass index,2016 US Dollar,45051.03021,28656.45526,60688.86684
+102,United States of America,2016,1,Male,158,<20 years,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,49.13557161,34.08984852,67.83347206
+102,United States of America,2016,1,Male,170,20 to 44,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,2861.416974,2241.416911,3528.684247
+102,United States of America,2016,1,Male,171,45 to 64,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,6390.590786,5348.354105,7470.933603
+102,United States of America,2016,1,Male,154,65 plus,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,1042.461907,812.9894778,1305.923516
+102,United States of America,2016,1,Male,22,All Ages,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,10343.60524,9000.443888,12034.51819
+102,United States of America,2016,2,Female,158,<20 years,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,66.16593533,42.0434083,97.47549515
+102,United States of America,2016,2,Female,170,20 to 44,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,2856.934096,2316.386631,3481.71079
+102,United States of America,2016,2,Female,171,45 to 64,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,5586.001506,4636.99933,6538.866818
+102,United States of America,2016,2,Female,154,65 plus,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,649.4628653,477.8401115,856.5932766
+102,United States of America,2016,2,Female,22,All Ages,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,9158.564403,7885.674842,10458.35823
+102,United States of America,2016,3,Both,158,<20 years,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,115.3015069,85.92790041,155.734258
+102,United States of America,2016,3,Both,170,20 to 44,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,5718.35107,4755.377058,6691.995739
+102,United States of America,2016,3,Both,171,45 to 64,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,11976.59229,10369.44877,13594.35793
+102,United States of America,2016,3,Both,154,65 plus,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,1691.924773,1383.012774,2032.143568
+102,United States of America,2016,3,Both,22,All Ages,msk,Musculoskeletal disorders,126,Occupational risks,2016 US Dollar,19502.16964,17120.38425,21810.51822
+102,United States of America,2016,1,Male,170,20 to 44,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,2.943890656,1.999213083,4.556208032
+102,United States of America,2016,1,Male,171,45 to 64,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,50.80735446,34.97954997,72.10073382
+102,United States of America,2016,1,Male,154,65 plus,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,242.9482663,176.64807,391.1782496
+102,United States of America,2016,1,Male,22,All Ages,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,296.6995114,222.362179,453.1801785
+102,United States of America,2016,2,Female,170,20 to 44,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,0.304078881,0.217168593,0.433294069
+102,United States of America,2016,2,Female,171,45 to 64,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,14.80083432,10.53636169,19.37347261
+102,United States of America,2016,2,Female,154,65 plus,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,510.9407272,104.6878557,2098.367778
+102,United States of America,2016,2,Female,22,All Ages,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,526.0456404,116.106059,2115.479517
+102,United States of America,2016,3,Both,170,20 to 44,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,3.247969538,2.256299245,4.975954963
+102,United States of America,2016,3,Both,171,45 to 64,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,65.60818878,47.73821296,88.98867847
+102,United States of America,2016,3,Both,154,65 plus,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,753.8889934,299.9998217,2338.415569
+102,United States of America,2016,3,Both,22,All Ages,msk,Musculoskeletal disorders,341,Impaired kidney function,2016 US Dollar,822.7451518,358.5911284,2403.048212
+102,United States of America,2016,1,Male,170,20 to 44,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,41.35751737,20.36416751,67.34765489
+102,United States of America,2016,1,Male,171,45 to 64,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,626.5406386,329.6203963,967.7102907
+102,United States of America,2016,1,Male,154,65 plus,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,1194.079443,651.8687424,1809.728011
+102,United States of America,2016,1,Male,22,All Ages,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,1861.977599,1038.652387,2827.492358
+102,United States of America,2016,2,Female,170,20 to 44,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,51.56447518,25.26530366,85.16838927
+102,United States of America,2016,2,Female,171,45 to 64,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,745.9361198,391.1506303,1144.423518
+102,United States of America,2016,2,Female,154,65 plus,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,1669.597983,911.8248783,2551.077473
+102,United States of America,2016,2,Female,22,All Ages,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,2467.098578,1339.009664,3760.085008
+102,United States of America,2016,3,Both,170,20 to 44,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,92.92199255,45.63192826,148.8387915
+102,United States of America,2016,3,Both,171,45 to 64,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,1372.476758,723.1340584,2088.472843
+102,United States of America,2016,3,Both,154,65 plus,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,2863.677426,1575.875281,4395.347899
+102,United States of America,2016,3,Both,22,All Ages,resp,Chronic respiratory diseases,85,Air pollution,2016 US Dollar,4329.076177,2347.789783,6569.370684
+102,United States of America,2016,1,Male,170,20 to 44,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,276.3077162,172.0245547,382.8768797
+102,United States of America,2016,1,Male,171,45 to 64,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,2540.987229,2037.651338,3082.71927
+102,United States of America,2016,1,Male,154,65 plus,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,4011.402704,3317.73235,4828.305046
+102,United States of America,2016,1,Male,22,All Ages,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,6828.697649,5695.825318,8130.07633
+102,United States of America,2016,2,Female,170,20 to 44,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,415.7554166,235.5094888,587.0986578
+102,United States of America,2016,2,Female,171,45 to 64,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,3059.27227,2395.916544,3703.51771
+102,United States of America,2016,2,Female,154,65 plus,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,4747.243376,3883.476193,5752.474654
+102,United States of America,2016,2,Female,22,All Ages,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,8222.271063,6747.414164,9796.79045
+102,United States of America,2016,3,Both,170,20 to 44,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,692.0631328,407.8138099,951.9096942
+102,United States of America,2016,3,Both,171,45 to 64,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,5600.259499,4531.227772,6718.759946
+102,United States of America,2016,3,Both,154,65 plus,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,8758.64608,7274.289789,10505.38074
+102,United States of America,2016,3,Both,22,All Ages,resp,Chronic respiratory diseases,98,Tobacco,2016 US Dollar,15050.96871,12542.77279,17889.59979
+102,United States of America,2016,1,Male,158,<20 years,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,289.5822755,153.7784563,440.7124956
+102,United States of America,2016,1,Male,170,20 to 44,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,741.6726757,439.7944279,1102.302537
+102,United States of America,2016,1,Male,171,45 to 64,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,1230.347366,706.2044815,1829.519888
+102,United States of America,2016,1,Male,154,65 plus,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,684.8510363,358.5308216,1080.194345
+102,United States of America,2016,1,Male,22,All Ages,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,2946.453353,1810.356482,4249.110453
+102,United States of America,2016,2,Female,158,<20 years,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,235.6618101,120.0441555,388.1325195
+102,United States of America,2016,2,Female,170,20 to 44,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,1525.456805,978.0604252,2190.545218
+102,United States of America,2016,2,Female,171,45 to 64,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,2953.023417,1949.88774,4139.154941
+102,United States of America,2016,2,Female,154,65 plus,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,1521.820856,925.3256451,2340.103504
+102,United States of America,2016,2,Female,22,All Ages,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,6235.962888,4189.802301,8800.105282
+102,United States of America,2016,3,Both,158,<20 years,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,525.2440855,299.9342841,797.0670073
+102,United States of America,2016,3,Both,170,20 to 44,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,2267.129481,1497.083525,3137.598967
+102,United States of America,2016,3,Both,171,45 to 64,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,4183.370783,2835.719311,5702.318194
+102,United States of America,2016,3,Both,154,65 plus,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,2206.671893,1340.11911,3297.643885
+102,United States of America,2016,3,Both,22,All Ages,resp,Chronic respiratory diseases,108,High body-mass index,2016 US Dollar,9182.416242,6246.809072,12658.05201
+102,United States of America,2016,1,Male,158,<20 years,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,34.85748218,26.15461267,45.02281421
+102,United States of America,2016,1,Male,170,20 to 44,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,374.4781016,295.6007693,455.7047762
+102,United States of America,2016,1,Male,171,45 to 64,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,984.1938826,747.7701122,1235.034359
+102,United States of America,2016,1,Male,154,65 plus,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,1004.151753,721.6439927,1309.892023
+102,United States of America,2016,1,Male,22,All Ages,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,2397.68122,1932.759326,2864.192284
+102,United States of America,2016,2,Female,158,<20 years,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,26.6070873,20.17964941,33.96448306
+102,United States of America,2016,2,Female,170,20 to 44,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,399.1779029,334.2711535,472.9433241
+102,United States of America,2016,2,Female,171,45 to 64,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,972.676638,797.6023629,1165.040963
+102,United States of America,2016,2,Female,154,65 plus,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,683.1111247,463.2665411,945.9324981
+102,United States of America,2016,2,Female,22,All Ages,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,2081.572753,1741.110093,2431.427912
+102,United States of America,2016,3,Both,158,<20 years,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,61.46456948,49.99651654,75.31777648
+102,United States of America,2016,3,Both,170,20 to 44,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,773.6560045,649.9795215,902.4391591
+102,United States of America,2016,3,Both,171,45 to 64,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,1956.870521,1630.111685,2292.75022
+102,United States of America,2016,3,Both,154,65 plus,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,1687.262878,1288.917391,2127.096398
+102,United States of America,2016,3,Both,22,All Ages,resp,Chronic respiratory diseases,126,Occupational risks,2016 US Dollar,4479.253973,3846.770828,5176.065094
+102,United States of America,2016,1,Male,158,<20 years,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,326.1190028,227.4529363,579.4385768
+102,United States of America,2016,1,Male,170,20 to 44,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,3272.31158,2611.942189,3923.028964
+102,United States of America,2016,1,Male,171,45 to 64,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,15828.34118,13332.10602,18419.51718
+102,United States of America,2016,1,Male,154,65 plus,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,17980.07995,14597.04506,22219.70151
+102,United States of America,2016,1,Male,22,All Ages,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,37406.85172,31570.13079,43263.2073
+102,United States of America,2016,2,Female,158,<20 years,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,226.7425885,168.6060034,293.5208878
+102,United States of America,2016,2,Female,170,20 to 44,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,2860.251355,2489.804305,3463.350771
+102,United States of America,2016,2,Female,171,45 to 64,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,16010.51465,13991.98463,18537.21129
+102,United States of America,2016,2,Female,154,65 plus,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,22473.84815,20029.87809,26384.52697
+102,United States of America,2016,2,Female,22,All Ages,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,41571.35674,37609.39236,48057.33818
+102,United States of America,2016,3,Both,158,<20 years,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,552.8615913,419.2768977,847.1212946
+102,United States of America,2016,3,Both,170,20 to 44,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,6132.562935,5273.165296,7032.328938
+102,United States of America,2016,3,Both,171,45 to 64,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,31838.85583,28621.21393,34994.85259
+102,United States of America,2016,3,Both,154,65 plus,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,40453.9281,35717.04025,45794.07061
+102,United States of America,2016,3,Both,22,All Ages,rf,Expenditure on risk factors,107,High systolic blood pressure,2016 US Dollar,78978.20846,72635.36847,86818.86422
+102,United States of America,2016,1,Male,158,<20 years,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,84.79467453,60.03632596,111.0210344
+102,United States of America,2016,1,Male,170,20 to 44,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,829.8309846,596.9540188,1097.459401
+102,United States of America,2016,1,Male,171,45 to 64,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,1367.079629,987.8533901,1737.860826
+102,United States of America,2016,1,Male,154,65 plus,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,431.0672879,346.2624439,503.1875393
+102,United States of America,2016,1,Male,22,All Ages,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,2712.772576,2026.699974,3398.799305
+102,United States of America,2016,2,Female,158,<20 years,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,101.2487121,80.52164117,126.9002372
+102,United States of America,2016,2,Female,170,20 to 44,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,2867.831645,2015.340713,3745.282634
+102,United States of America,2016,2,Female,171,45 to 64,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,3036.836793,2104.770152,3961.429497
+102,United States of America,2016,2,Female,154,65 plus,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,1025.951678,697.3317916,1909.052706
+102,United States of America,2016,2,Female,22,All Ages,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,7031.868829,5216.248151,8948.681094
+102,United States of America,2016,3,Both,158,<20 years,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,186.0433866,142.143526,232.8656196
+102,United States of America,2016,3,Both,170,20 to 44,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,3697.66263,2626.047083,4824.208117
+102,United States of America,2016,3,Both,171,45 to 64,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,4403.916422,3083.734761,5662.94708
+102,United States of America,2016,3,Both,154,65 plus,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,1457.018966,1104.520225,2292.252672
+102,United States of America,2016,3,Both,22,All Ages,rf,Expenditure on risk factors,108,High body-mass index,2016 US Dollar,9744.641404,7222.418431,12418.772

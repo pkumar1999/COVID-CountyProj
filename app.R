@@ -4,13 +4,8 @@ library(tidyverse)
 library(shiny)
 library(fec16)
 
-# This is just a normal object
 
-state.names <- c("CA", "NY", "KS")
-
-# Make change to your dataset
-results_house <- results_house %>%
-  select(-footnotes)
+risk_data <- read.csv("risk_data.csv")
 
 ######################################################################################
 ######################################################################################
@@ -32,16 +27,12 @@ results_house <- results_house %>%
 
 ui <- fluidPage(navbarPage(
   "Shiny Example",
-  
   tabPanel(
     "Main",
-    
     # - UIs are built from "panel" functions, which specify areas of your page.
     #
     #   -- There is a "main panel," a "sidebar," a "title," etc.
-    
     # Here is a sidebar!
-    
     sidebarPanel(
       selectInput(
         inputId = "selected_state",                 # a name for the value you choose here
@@ -106,7 +97,13 @@ ui <- fluidPage(navbarPage(
     )
   ),
   tabPanel("About",
-             h3("This is an about me! My name is _______"))
+             h3("Hello, my name is PK and this is my final project for GOV 50. 
+                Currently I am working with a dataset entitled: United States 
+                Health-Care Spending Attributable to Modifiable Risk Factors 
+                in 2016. This data is a merger of two existing studies and was 
+                created by The Insitute for Health Metrics and Evaluation's 
+                Disease Expenditure Study 2016. While I expect to change the
+                data I work with, this is an interesting visualization."))
   )
 )
 
@@ -141,7 +138,7 @@ server <- function(input, output, session) {
   # That is, we can update it based on the values of input that define above.
   
   results <- reactive({
-    results_house
+    risk_data
   })
   
   # Just like renderText(), we can renderPlot()!
@@ -150,14 +147,11 @@ server <- function(input, output, session) {
     # we need to use () here after the name of our dataset because it is reactive!
     results() %>%
       
-      # notice we are using the selected_state variable defined above!
-      
-      filter(state == input$selected_state) %>%
+      filter(age_group_name != "All Ages") %>%
       
       # this plot is just like normal!
-      ggplot(aes(x = primary_percent, y = general_percent)) +
-      geom_point(size = input$selected_size,
-                 color = input$selected_color) +
+      ggplot(aes(x = risk_id, y = mean, color = age_group_name)) +
+      geom_point() +
       labs(title = input$entered_text) +
       theme_bw()
   })
