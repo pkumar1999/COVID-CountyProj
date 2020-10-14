@@ -103,7 +103,9 @@ ui <- fluidPage(navbarPage(
                 in 2016. This data is a merger of two existing studies and was 
                 created by The Insitute for Health Metrics and Evaluation's 
                 Disease Expenditure Study 2016. While I expect to change the
-                data I work with, this is an interesting visualization."))
+                data I work with, this is an interesting visualization.
+                Here is the link for my repo
+                https://github.com/pkumar1999/Gov50_FP.git"))
   )
 )
 
