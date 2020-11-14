@@ -6,7 +6,7 @@ library(fec16)
 
 
 risk_data <- read.csv("risk_data.csv")
-
+age_groups <- c("<20 years", "20 to 44", "45 to 64", "65 plus")
 ######################################################################################
 ######################################################################################
 #
@@ -35,18 +35,10 @@ ui <- fluidPage(navbarPage(
     # Here is a sidebar!
     sidebarPanel(
       selectInput(
-        inputId = "selected_state",                 # a name for the value you choose here
-        label = "Choose a state from this list!",   # the name to display on the slider
-        choices = state.names                       # your list of choices to choose from
+        inputId = "age_group",                 # a name for the value you choose here
+        label = "Choose an Age Group",   # the name to display on the slider
+        choices = age_groups             # your list of choices to choose from
       ),
-      
-      sliderInput(
-        inputId = "selected_size",                  # a name for the value you choose here
-        label = "Choose a number as a point size:", # the label to display above the slider
-        min = 0,                                    # the min, max, and initial values
-        max = 5,
-        value = 2 
-      )
       
     ),
     
@@ -76,12 +68,6 @@ ui <- fluidPage(navbarPage(
       #   like in plots!
       #
       # - All of these functions have their own arguments. For example:
-      
-      radioButtons(
-        inputId = "selected_color",             # a name for the value you choose here
-        label = "Choose a color!",              # the label to display above the buttons
-        choices = c("red", "blue", "green")     # the button values to choose from
-      ),
       
       textInput(
         inputId = "entered_text",               # a name for the value you choose here
@@ -117,25 +103,9 @@ server <- function(input, output, session) {
   #   -- so here, renderText() is updating live text based on your choice.
   
   output$state_message <- renderText({
-    paste0("This is the state you chose: ", # this is just a string, so it will never change
-           input$selected_state, "!")       # this is based on your input, selected_state defined above.
+    paste0("This is the age group you chose: ", # this is just a string, so it will never change
+           input$age_group, "!")       # this is based on your input, selected_state defined above.
   })
-  
-  output$size_message <- renderText({
-    paste0("This is the size you chose: ", # this is just a string, so it will never change
-           input$selected_size, "!")       # this is based on your input, selected_state defined above.
-  })
-  
-  output$color_message <- renderText({
-    paste0("This is the color you chose: ", # this is just a string, so it will never change
-           input$selected_color, "!")       # this is based on your input, selected_state defined above.
-  })
-  
-  output$text_message <- renderText({
-    paste0("This is the label you typed: ", # this is just a string, so it will never change
-           input$entered_text, "!")       # this is based on your input, selected_state defined above.
-  })
-  
   # This line makes our dataset reactive.
   # That is, we can update it based on the values of input that define above.
   
@@ -146,15 +116,11 @@ server <- function(input, output, session) {
   # Just like renderText(), we can renderPlot()!
   
   output$state_plot <- renderPlot({
-    # we need to use () here after the name of our dataset because it is reactive!
     results() %>%
-      
-      filter(age_group_name != "All Ages") %>%
-      
-      # this plot is just like normal!
+      filter(age_group_name == input$age_group) %>%
       ggplot(aes(x = risk_id, y = mean, color = age_group_name)) +
       geom_point() +
-      labs(title = input$entered_text) +
+      labs(title = input$entered_text, x = "Risk ID", y = "Mean") +
       theme_bw()
   })
   
