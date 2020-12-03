@@ -28,6 +28,12 @@ combined <- inner_join(COVID, Med_Sal, by = "FIPS")
 
 education <- read_excel("raw_data/Education.xls") %>%
   filter(State != "PR") %>%
-  rename("no_hs_2014_18" = "Percent of adults with less than a high school diploma, 2014-18", "no_hs_1970" = "Percent of adults with less than a high school diploma, 1970") %>%
+  rename("no_hs_2014_18" = "Percent of adults with less than a high school 
+         diploma, 2014-18", "no_hs_1970" = "Percent of adults with less than a high school diploma, 1970") %>%
   mutate(hs_2014_18 = 100 - `no_hs_2014_18`, hs_1970 = 100 - no_hs_1970) %>%
   select(1:7, hs_2014_18, hs_1970)
+
+ggplot(data = COVID, aes(COVID$`Cases of COVID-19`, COVID$Population, color = 
+         COVID$`Deaths from COVID-19`)) + geom_point()
+
+       

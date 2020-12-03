@@ -1,0 +1,114 @@
+---
+title: "Gather"
+author: "PK"
+date: "11/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidycensus)
+library(tidyverse)
+library(readxl)
+library(usmap)
+library(rstanarm)
+library(gt)
+library(gtsummary)
+library(broom.mixed)
+```
+
+```{r}
+COVID <- read_csv("raw_data/County-level-data_10_19_2020.csv") %>%
+  rename("Insurance" = "Insurance Type (Relevant for Clinical Data from Claims Only)") %>%
+  filter(State != "District of Columbia", Insurance == "All") %>%
+  rename(FIPS = `FIPS County Code`) %>%
+  mutate(FIPS = ifelse(nchar(FIPS) == 4, paste("0", FIPS, sep = ""), FIPS))
+
+county_wealth <- get_acs(geography = "county",
+                            variables = c(medincome = "B19013_001"),
+                            state = c(state.abb),
+                            year = 2018)
+
+
+test <- county_wealth %>%
+  separate(NAME, c('County', 'State'), sep=",") %>%
+  rename("Median Salary" = "estimate") %>%
+  select(c("County", "State", "Median Salary")) %>%
+  mutate(State = trimws(State, which = c("both")))
+
+Med_Sal <- left_join(test, fips_codes, by = c("County" = "county", "State" = "state_name")) %>%
+  mutate(FIPS = paste(state_code, county_code, sep = ""))
+
+combined <- inner_join(COVID, Med_Sal, by = "FIPS")
+
+education <- read_excel("raw_data/Education.xls") %>%
+  filter(State != "PR") %>%
+  rename("no_hs_2014_18" =
+           "Percent of adults with less than a high school diploma, 2014-18", "no_hs_1970" = "Percent of adults with less than a high school diploma, 1970") %>%
+  mutate(hs_2014_18 = 100 - `no_hs_2014_18`, hs_1970 = 100 - no_hs_1970) %>%
+  select(1:7, hs_2014_18, hs_1970)
+
+combined <- inner_join(combined, education, by = c("FIPS" = "FIPS Code")) %>%
+  rename(deaths = `Deaths from COVID-19`, cases = `Cases of COVID-19`, med_sal = 
+           `Median Salary`, density = `Population Density`) %>%
+  mutate(log_pop = log(Population+1), log_cases = log(cases+1), log_density = log(density+1))
+  
+
+ggplot(data = combined, aes(x = log_pop, y = log_cases, 
+                            color = combined$deaths)) + geom_point() + 
+  labs(title = "COVID Cases by County Population", y= "Cases of COVID-19", 
+       x = "Population of County", color = "Deaths due to COVID") +
+  annotate(geom = "text", x = 16.5, y = 12.5, label = "LA")
+
+ggplot(data = combined, aes(x = combined$med_sal, 
+                            y = log_cases,
+                            color = combined$deaths)) + 
+  geom_point() + labs(x = "Median Salary of County", 
+                      y = "Number of Cases per County",
+                      title = "Median Salary vs Cases by County", 
+                      color = "Deaths due to COVID") + 
+  scale_x_continuous(breaks = c(5e+04, 1e+05), labels = c("50000", "100000")) +
+  annotate(geom = "text", x = 134000, y = 8.0, label = "Loudoun\nCounty")
+
+ggplot(data = combined, aes(x= combined$hs_2014_18, 
+                            y = combined$log_cases, 
+                            color = combined$deaths)) +
+  geom_point() 
+
+ggplot(data = combined, aes(x= combined$hs_1970, 
+                            y = combined$log_cases, 
+                            color = combined$deaths)) +
+  geom_point()
+
+ggplot(data = combined, aes(x= combined$log_density, 
+                            y = combined$log_cases, 
+                            color = combined$deaths)) +
+  geom_point()
+
+model_1 <- stan_glm(
+    data = combined,
+    formula = log_cases ~ hs_2014_18 + I(med_sal/10000) + log_density,
+    refresh = 0
+  )
+
+tbl_regression(model, intercept = TRUE) %>%
+  as_gt() %>%
+  tab_header(title = "Test",
+             subtitle = "Test")
+
+
+print(model, digits = 5)
+
+# LOOK AT POPULATION DENSITY
+# PLOTS FOR BIG PICTURE LOOK ON FIRST TAB OF SHINY
+# SECOND TAB IS MODEL
+# CONTROL FOR OTHER THINGS AND LOOK AT LOG
+# PRINT OUT REGRESSION TABLE AND WALK THROUGH COEFFICIENTS (LAST PSET)
+# USE MODEL TO PREDICT FOR SPECIFIC COUNTIES (AVG COUNTY SIZE/AVG GRAD RATE)
+
+
+# predictors <- c(“med_sal”, “hs_2014_18”)
+# outcome <- “log_cases"
+# as.formula(paste(outcome, "~", paste(predictors, collapse = " + ")))
+```
+
