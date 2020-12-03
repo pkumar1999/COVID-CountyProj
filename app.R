@@ -148,11 +148,14 @@ ui <- fluidPage(
   tabPanel(
     "About",
     h3(
-      "Hello, my name is PK and this is my final project for GOV 50. I
-             have decided to pursue my final project analyzing the effect of
-             county education and wealth statistics on the impact of COVID-19
-             in terms of cases and deaths. Here is a link to my github repo:
-            https://github.com/pkumar1999/Gov50_FP.git"
+      "COVID-19 is probably the last thing you want to think about, so I did it 
+      for you! Today, I have drawn county-data from the McKinsey Center from 
+      Global Benefit COVID Dashboard to analyze the data surrounding each county
+      of the United States. I have furthermore drawn graduation and census data 
+      to look at how these predictors may correlate to COVID Cases and Deaths 
+      throughout the country. Here we have interactive graphs and models that 
+      you may work with to understand how COVID interacts with these predictors.
+      Here is a link to my github repo:https://github.com/pkumar1999/Gov50_FP.git"
     )
   )
 ))
