@@ -9,7 +9,7 @@ library(rstanarm)
 library(gt)
 library(gtsummary)
 library(shinythemes)
-xlibrary(broom.mixed)
+library(broom.mixed)
 
 risk_data <- read.csv("risk_data.csv")
 x <- c("cases", "deaths", "med_sal", "log_pop", "hs_2014_18", "hs_1970")
