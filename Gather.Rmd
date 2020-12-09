@@ -24,10 +24,7 @@ COVID <- read_csv("raw_data/County-level-data_10_19_2020.csv") %>%
   rename(FIPS = `FIPS County Code`) %>%
   mutate(FIPS = ifelse(nchar(FIPS) == 4, paste("0", FIPS, sep = ""), FIPS))
 
-county_wealth <- get_acs(geography = "county",
-                            variables = c(medincome = "B19013_001"),
-                            state = c(state.abb),
-                            year = 2018)
+county_wealth <- county_wealth <- read_rds("county_wealth.rds")
 
 
 test <- county_wealth %>%
@@ -91,13 +88,13 @@ model_1 <- stan_glm(
     refresh = 0
   )
 
-tbl_regression(model, intercept = TRUE) %>%
+tbl_regression(model_1, intercept = TRUE) %>%
   as_gt() %>%
   tab_header(title = "Test",
              subtitle = "Test")
 
 
-print(model, digits = 5)
+
 
 # LOOK AT POPULATION DENSITY
 # PLOTS FOR BIG PICTURE LOOK ON FIRST TAB OF SHINY
